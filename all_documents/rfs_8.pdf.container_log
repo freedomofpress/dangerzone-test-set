@@ -1,0 +1,60 @@
+Calculating number of pages
+pdfinfo: Creator:         Adobe InDesign CS5 (7.0.4)
+pdfinfo: Producer:        Adobe PDF Library 9.9
+pdfinfo: CreationDate:    Thu May 12 14:39:18 2011 UTC
+pdfinfo: ModDate:         Thu May 12 14:40:08 2011 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          yes
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           12
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       595.276 x 793.701 pts
+pdfinfo: Page rot:        0
+pdfinfo: File size:       4202183 bytes
+pdfinfo: Optimized:       yes
+pdfinfo: PDF version:     1.4
+pdftoppm: 1 12 /tmp/page-01.ppm
+Converting page 1/12 to pixels
+pdftoppm: 2 12 /tmp/page-02.ppm
+Converting page 2/12 to pixels
+pdftoppm: 3 12 /tmp/page-03.ppm
+Converting page 3/12 to pixels
+pdftoppm: 4 12 /tmp/page-04.ppm
+Converting page 4/12 to pixels
+pdftoppm: 5 12 /tmp/page-05.ppm
+Converting page 5/12 to pixels
+pdftoppm: 6 12 /tmp/page-06.ppm
+Converting page 6/12 to pixels
+pdftoppm: 7 12 /tmp/page-07.ppm
+Converting page 7/12 to pixels
+pdftoppm: 8 12 /tmp/page-08.ppm
+Converting page 8/12 to pixels
+pdftoppm: 9 12 /tmp/page-09.ppm
+Converting page 9/12 to pixels
+pdftoppm: 10 12 /tmp/page-10.ppm
+Converting page 10/12 to pixels
+pdftoppm: 11 12 /tmp/page-11.ppm
+Converting page 11/12 to pixels
+pdftoppm: 12 12 /tmp/page-12.ppm
+Converting page 12/12 to pixels
+Converted document to pixels
+Converting page 1/12 from pixels to searchable PDF
+Converting page 2/12 from pixels to searchable PDF
+Converting page 3/12 from pixels to searchable PDF
+Converting page 4/12 from pixels to searchable PDF
+Converting page 5/12 from pixels to searchable PDF
+Converting page 6/12 from pixels to searchable PDF
+Converting page 7/12 from pixels to searchable PDF
+Converting page 8/12 from pixels to searchable PDF
+Converting page 9/12 from pixels to searchable PDF
+Converting page 10/12 from pixels to searchable PDF
+Converting page 11/12 from pixels to searchable PDF
+Converting page 12/12 from pixels to searchable PDF
+Merging 12 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

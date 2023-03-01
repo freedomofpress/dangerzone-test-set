@@ -1,0 +1,27 @@
+Calculating number of pages
+pdfinfo: Creator:         Writer
+pdfinfo: Producer:        LibreOffice 6.4
+pdfinfo: CreationDate:    Wed May  6 17:53:24 2020 UTC
+pdfinfo: ModDate:         Sat Jun 13 08:11:14 2020 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          yes
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           1
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       612 x 792 pts (letter)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       21709 bytes
+pdfinfo: Optimized:       yes
+pdfinfo: PDF version:     1.6
+pdftoppm: 1 1 /tmp/page-1.ppm
+Converting page 1/1 to pixels
+Converted document to pixels
+Converting page 1/1 from pixels to searchable PDF
+Merging 1 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

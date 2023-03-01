@@ -1,0 +1,49 @@
+Calculating number of pages
+pdfinfo: Syntax Error (84597): Illegal character '}'
+pdfinfo: Keywords:        Report request id:21063565_PDF_(1424984795, 653510423)-4190
+pdfinfo: Author:          Bloomberg nX Reporting platform - erepsvc
+pdfinfo: Creator:         Bloomberg nX Reporting platform - erepsvc
+pdfinfo: Producer:        Bloomberg nX Reporting platform - erepsvc
+pdfinfo: CreationDate:    Thu Feb 26 21:06:35 2015 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           2
+pdfinfo: Encrypted:       yes (print:yes copy:no change:no addNotes:no algorithm:RC4)
+pdfinfo: Page size:       595 x 825 pts
+pdfinfo: Page rot:        0
+pdfinfo: File size:       109769 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.4
+pdftoppm: Syntax Error (84597): Illegal character '}'
+pdftoppm: Syntax Error: Unterminated string
+pdftoppm: Syntax Error: Unknown operator '<03><fd><b6>X<c4><b9>&<c6><bf><8f>M<16>wS<1a><ac><c4><ae><89><e0>vz<e4><fd>-<a7><b0><e1><98><e1><83><af><8f>'
+pdftoppm: Syntax Error: Leftover args in content stream
+pdftoppm: 1 2 /tmp/page-1.ppm
+Converting page 1/2 to pixels
+pdftoppm: Syntax Error (59): Unknown operator '<b8><ee>&<a6><ab>'
+pdftoppm: Syntax Error (65): Unknown operator '<0f>9<a6>md<cd><94>'k='<fb><11>3d8<87><ad><be><93>'
+pdftoppm: Syntax Error (92): Unknown operator '<15><98><1a>`Y"<1c><e1><f2><b9><ac>2<99>lUV<f3><9e>S<08><f6><c6>3<de>;<ef><f0><db><ab>e<ba>'
+pdftoppm: Syntax Error (92): Illegal character '{'
+pdftoppm: Syntax Error (92): Unknown operator '<a0>M<17><a6><18>'
+pdftoppm: Syntax Error (117): Unknown operator '<b1><80>2<83><82><9f>x'
+pdftoppm: Syntax Error (117): Illegal character '{'
+pdftoppm: Syntax Error (162): Illegal character ')'
+pdftoppm: Syntax Error (209): Illegal character ')'
+pdftoppm: Syntax Error: End of file inside array
+pdftoppm: Syntax Error: End of file inside array
+pdftoppm: Syntax Error: End of file inside array
+pdftoppm: Syntax Error: Leftover args in content stream
+pdftoppm: 2 2 /tmp/page-2.ppm
+Converting page 2/2 to pixels
+Converted document to pixels
+Converting page 1/2 from pixels to searchable PDF
+Converting page 2/2 from pixels to searchable PDF
+Merging 2 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

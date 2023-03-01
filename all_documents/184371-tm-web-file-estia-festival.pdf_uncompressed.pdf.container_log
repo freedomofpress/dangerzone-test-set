@@ -1,0 +1,32 @@
+Calculating number of pages
+pdfinfo: Title:           MERE01Z01MA16Mar14063v001
+pdfinfo: Author:          jeromed
+pdfinfo: Creator:         EidosMedia Methode 5.0
+pdfinfo: Producer:        EidosMedia Methode 5.0 output driver 4.1.1.5
+pdfinfo: CreationDate:    Sat Mar 15 09:39:54 2014 UTC
+pdfinfo: ModDate:         Mon Mar 31 00:06:37 2014 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           2
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       819.213 x 1148.03 pts
+pdfinfo: Page rot:        0
+pdfinfo: File size:       1199216 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.4
+pdftoppm: 1 2 /tmp/page-1.ppm
+Converting page 1/2 to pixels
+pdftoppm: 2 2 /tmp/page-2.ppm
+Converting page 2/2 to pixels
+Converted document to pixels
+Converting page 1/2 from pixels to searchable PDF
+Converting page 2/2 from pixels to searchable PDF
+Merging 2 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

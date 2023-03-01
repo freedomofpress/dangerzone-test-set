@@ -1,0 +1,51 @@
+Calculating number of pages
+pdfinfo: Creator:         Adobe InDesign CS4 (6.0)
+pdfinfo: Producer:        Adobe PDF Library 9.0
+pdfinfo: CreationDate:    Tue Nov 19 20:54:18 2013 UTC
+pdfinfo: ModDate:         Tue Nov 19 20:54:19 2013 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          yes
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           9
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       612 x 792 pts (letter)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       628226 bytes
+pdfinfo: Optimized:       yes
+pdfinfo: PDF version:     1.4
+pdftoppm: 1 9 /tmp/page-1.ppm
+Converting page 1/9 to pixels
+pdftoppm: 2 9 /tmp/page-2.ppm
+Converting page 2/9 to pixels
+pdftoppm: 3 9 /tmp/page-3.ppm
+Converting page 3/9 to pixels
+pdftoppm: 4 9 /tmp/page-4.ppm
+Converting page 4/9 to pixels
+pdftoppm: 5 9 /tmp/page-5.ppm
+Converting page 5/9 to pixels
+pdftoppm: 6 9 /tmp/page-6.ppm
+Converting page 6/9 to pixels
+pdftoppm: 7 9 /tmp/page-7.ppm
+Converting page 7/9 to pixels
+pdftoppm: 8 9 /tmp/page-8.ppm
+Converting page 8/9 to pixels
+pdftoppm: 9 9 /tmp/page-9.ppm
+Converting page 9/9 to pixels
+Converted document to pixels
+Converting page 1/9 from pixels to searchable PDF
+Converting page 2/9 from pixels to searchable PDF
+Converting page 3/9 from pixels to searchable PDF
+Converting page 4/9 from pixels to searchable PDF
+Converting page 5/9 from pixels to searchable PDF
+Converting page 6/9 from pixels to searchable PDF
+Converting page 7/9 from pixels to searchable PDF
+Converting page 8/9 from pixels to searchable PDF
+Converting page 9/9 from pixels to searchable PDF
+Merging 9 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

@@ -1,0 +1,129 @@
+Converting to PDF using LibreOffice
+libreoffice: convert /tmp/input_file -> /tmp/input_file.pdf using filter : writer_pdf_Export
+Calculating number of pages
+pdfinfo: Title:           Getting Started with LibreOffice 5.0
+pdfinfo: Author:          Jean Weber
+pdfinfo: Creator:         Writer
+pdfinfo: Producer:        LibreOffice 7.3
+pdfinfo: CreationDate:    Wed Feb 22 19:28:22 2023 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: no
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           34
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       595.304 x 841.89 pts (A4)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       205802 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.6
+pdftoppm: 1 34 /tmp/page-01.ppm
+Converting page 1/34 to pixels
+pdftoppm: 2 34 /tmp/page-02.ppm
+Converting page 2/34 to pixels
+pdftoppm: 3 34 /tmp/page-03.ppm
+Converting page 3/34 to pixels
+pdftoppm: 4 34 /tmp/page-04.ppm
+Converting page 4/34 to pixels
+pdftoppm: 5 34 /tmp/page-05.ppm
+Converting page 5/34 to pixels
+pdftoppm: 6 34 /tmp/page-06.ppm
+Converting page 6/34 to pixels
+pdftoppm: 7 34 /tmp/page-07.ppm
+Converting page 7/34 to pixels
+pdftoppm: 8 34 /tmp/page-08.ppm
+Converting page 8/34 to pixels
+pdftoppm: 9 34 /tmp/page-09.ppm
+Converting page 9/34 to pixels
+pdftoppm: 10 34 /tmp/page-10.ppm
+Converting page 10/34 to pixels
+pdftoppm: 11 34 /tmp/page-11.ppm
+Converting page 11/34 to pixels
+pdftoppm: 12 34 /tmp/page-12.ppm
+Converting page 12/34 to pixels
+pdftoppm: 13 34 /tmp/page-13.ppm
+Converting page 13/34 to pixels
+pdftoppm: 14 34 /tmp/page-14.ppm
+Converting page 14/34 to pixels
+pdftoppm: 15 34 /tmp/page-15.ppm
+Converting page 15/34 to pixels
+pdftoppm: 16 34 /tmp/page-16.ppm
+Converting page 16/34 to pixels
+pdftoppm: 17 34 /tmp/page-17.ppm
+Converting page 17/34 to pixels
+pdftoppm: 18 34 /tmp/page-18.ppm
+Converting page 18/34 to pixels
+pdftoppm: 19 34 /tmp/page-19.ppm
+Converting page 19/34 to pixels
+pdftoppm: 20 34 /tmp/page-20.ppm
+Converting page 20/34 to pixels
+pdftoppm: 21 34 /tmp/page-21.ppm
+Converting page 21/34 to pixels
+pdftoppm: 22 34 /tmp/page-22.ppm
+Converting page 22/34 to pixels
+pdftoppm: 23 34 /tmp/page-23.ppm
+Converting page 23/34 to pixels
+pdftoppm: 24 34 /tmp/page-24.ppm
+Converting page 24/34 to pixels
+pdftoppm: 25 34 /tmp/page-25.ppm
+Converting page 25/34 to pixels
+pdftoppm: 26 34 /tmp/page-26.ppm
+Converting page 26/34 to pixels
+pdftoppm: 27 34 /tmp/page-27.ppm
+Converting page 27/34 to pixels
+pdftoppm: 28 34 /tmp/page-28.ppm
+Converting page 28/34 to pixels
+pdftoppm: 29 34 /tmp/page-29.ppm
+Converting page 29/34 to pixels
+pdftoppm: 30 34 /tmp/page-30.ppm
+Converting page 30/34 to pixels
+pdftoppm: 31 34 /tmp/page-31.ppm
+Converting page 31/34 to pixels
+pdftoppm: 32 34 /tmp/page-32.ppm
+Converting page 32/34 to pixels
+pdftoppm: 33 34 /tmp/page-33.ppm
+Converting page 33/34 to pixels
+pdftoppm: 34 34 /tmp/page-34.ppm
+Converting page 34/34 to pixels
+Converted document to pixels
+Converting page 1/34 from pixels to searchable PDF
+Converting page 2/34 from pixels to searchable PDF
+Converting page 3/34 from pixels to searchable PDF
+Converting page 4/34 from pixels to searchable PDF
+Converting page 5/34 from pixels to searchable PDF
+Converting page 6/34 from pixels to searchable PDF
+Converting page 7/34 from pixels to searchable PDF
+Converting page 8/34 from pixels to searchable PDF
+Converting page 9/34 from pixels to searchable PDF
+Converting page 10/34 from pixels to searchable PDF
+Converting page 11/34 from pixels to searchable PDF
+Converting page 12/34 from pixels to searchable PDF
+Converting page 13/34 from pixels to searchable PDF
+Converting page 14/34 from pixels to searchable PDF
+Converting page 15/34 from pixels to searchable PDF
+Converting page 16/34 from pixels to searchable PDF
+Converting page 17/34 from pixels to searchable PDF
+Converting page 18/34 from pixels to searchable PDF
+Converting page 19/34 from pixels to searchable PDF
+Converting page 20/34 from pixels to searchable PDF
+Converting page 21/34 from pixels to searchable PDF
+Converting page 22/34 from pixels to searchable PDF
+Converting page 23/34 from pixels to searchable PDF
+Converting page 24/34 from pixels to searchable PDF
+Converting page 25/34 from pixels to searchable PDF
+Converting page 26/34 from pixels to searchable PDF
+Converting page 27/34 from pixels to searchable PDF
+Converting page 28/34 from pixels to searchable PDF
+Converting page 29/34 from pixels to searchable PDF
+Converting page 30/34 from pixels to searchable PDF
+Converting page 31/34 from pixels to searchable PDF
+Converting page 32/34 from pixels to searchable PDF
+Converting page 33/34 from pixels to searchable PDF
+Converting page 34/34 from pixels to searchable PDF
+Merging 34 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

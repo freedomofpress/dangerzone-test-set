@@ -1,0 +1,82 @@
+Calculating number of pages
+pdfinfo: Title:           The Digital Millennium Copyright Act of 1998
+pdfinfo: Subject:         Copyright Office Summary of the DMCA
+pdfinfo: Keywords:        digital millennium copyright act circumvention technological protection management information online service provider liability limitation computer maintenance competitiion repair ephemeral recording webcasting distance education study vessel hull
+pdfinfo: Author:          United States Copyright Office - jmf
+pdfinfo: Creator:         C:My DocumentsSUMMARY6.WPD
+pdfinfo: Producer:        Acrobat PDFWriter 3.02 for Windows
+pdfinfo: CreationDate:    D:00000101000000Z
+pdfinfo: ModDate:         Wed Oct 17 21:09:26 2001 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           18
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       612 x 792 pts (letter)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       153269 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.4
+pdftoppm: 1 18 /tmp/page-01.ppm
+Converting page 1/18 to pixels
+pdftoppm: 2 18 /tmp/page-02.ppm
+Converting page 2/18 to pixels
+pdftoppm: 3 18 /tmp/page-03.ppm
+Converting page 3/18 to pixels
+pdftoppm: 4 18 /tmp/page-04.ppm
+Converting page 4/18 to pixels
+pdftoppm: 5 18 /tmp/page-05.ppm
+Converting page 5/18 to pixels
+pdftoppm: 6 18 /tmp/page-06.ppm
+Converting page 6/18 to pixels
+pdftoppm: 7 18 /tmp/page-07.ppm
+Converting page 7/18 to pixels
+pdftoppm: 8 18 /tmp/page-08.ppm
+Converting page 8/18 to pixels
+pdftoppm: 9 18 /tmp/page-09.ppm
+Converting page 9/18 to pixels
+pdftoppm: 10 18 /tmp/page-10.ppm
+Converting page 10/18 to pixels
+pdftoppm: 11 18 /tmp/page-11.ppm
+Converting page 11/18 to pixels
+pdftoppm: 12 18 /tmp/page-12.ppm
+Converting page 12/18 to pixels
+pdftoppm: 13 18 /tmp/page-13.ppm
+Converting page 13/18 to pixels
+pdftoppm: 14 18 /tmp/page-14.ppm
+Converting page 14/18 to pixels
+pdftoppm: 15 18 /tmp/page-15.ppm
+Converting page 15/18 to pixels
+pdftoppm: 16 18 /tmp/page-16.ppm
+Converting page 16/18 to pixels
+pdftoppm: 17 18 /tmp/page-17.ppm
+Converting page 17/18 to pixels
+pdftoppm: 18 18 /tmp/page-18.ppm
+Converting page 18/18 to pixels
+Converted document to pixels
+Converting page 1/18 from pixels to searchable PDF
+Converting page 2/18 from pixels to searchable PDF
+Converting page 3/18 from pixels to searchable PDF
+Converting page 4/18 from pixels to searchable PDF
+Converting page 5/18 from pixels to searchable PDF
+Converting page 6/18 from pixels to searchable PDF
+Converting page 7/18 from pixels to searchable PDF
+Converting page 8/18 from pixels to searchable PDF
+Converting page 9/18 from pixels to searchable PDF
+Converting page 10/18 from pixels to searchable PDF
+Converting page 11/18 from pixels to searchable PDF
+Converting page 12/18 from pixels to searchable PDF
+Converting page 13/18 from pixels to searchable PDF
+Converting page 14/18 from pixels to searchable PDF
+Converting page 15/18 from pixels to searchable PDF
+Converting page 16/18 from pixels to searchable PDF
+Converting page 17/18 from pixels to searchable PDF
+Converting page 18/18 from pixels to searchable PDF
+Merging 18 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

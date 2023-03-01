@@ -1,0 +1,92 @@
+Converting to PDF using LibreOffice
+libreoffice: convert /tmp/input_file -> /tmp/input_file.pdf using filter : calc_pdf_Export
+Calculating number of pages
+pdfinfo: Author:          Windows User
+pdfinfo: Creator:         Calc
+pdfinfo: Producer:        LibreOffice 7.3
+pdfinfo: CreationDate:    Wed Feb 22 21:03:26 2023 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: no
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           22
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       612 x 792 pts (letter)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       62737 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.6
+pdftoppm: 1 22 /tmp/page-01.ppm
+Converting page 1/22 to pixels
+pdftoppm: 2 22 /tmp/page-02.ppm
+Converting page 2/22 to pixels
+pdftoppm: 3 22 /tmp/page-03.ppm
+Converting page 3/22 to pixels
+pdftoppm: 4 22 /tmp/page-04.ppm
+Converting page 4/22 to pixels
+pdftoppm: 5 22 /tmp/page-05.ppm
+Converting page 5/22 to pixels
+pdftoppm: 6 22 /tmp/page-06.ppm
+Converting page 6/22 to pixels
+pdftoppm: 7 22 /tmp/page-07.ppm
+Converting page 7/22 to pixels
+pdftoppm: 8 22 /tmp/page-08.ppm
+Converting page 8/22 to pixels
+pdftoppm: 9 22 /tmp/page-09.ppm
+Converting page 9/22 to pixels
+pdftoppm: 10 22 /tmp/page-10.ppm
+Converting page 10/22 to pixels
+pdftoppm: 11 22 /tmp/page-11.ppm
+Converting page 11/22 to pixels
+pdftoppm: 12 22 /tmp/page-12.ppm
+Converting page 12/22 to pixels
+pdftoppm: 13 22 /tmp/page-13.ppm
+Converting page 13/22 to pixels
+pdftoppm: 14 22 /tmp/page-14.ppm
+Converting page 14/22 to pixels
+pdftoppm: 15 22 /tmp/page-15.ppm
+Converting page 15/22 to pixels
+pdftoppm: 16 22 /tmp/page-16.ppm
+Converting page 16/22 to pixels
+pdftoppm: 17 22 /tmp/page-17.ppm
+Converting page 17/22 to pixels
+pdftoppm: 18 22 /tmp/page-18.ppm
+Converting page 18/22 to pixels
+pdftoppm: 19 22 /tmp/page-19.ppm
+Converting page 19/22 to pixels
+pdftoppm: 20 22 /tmp/page-20.ppm
+Converting page 20/22 to pixels
+pdftoppm: 21 22 /tmp/page-21.ppm
+Converting page 21/22 to pixels
+pdftoppm: 22 22 /tmp/page-22.ppm
+Converting page 22/22 to pixels
+Converted document to pixels
+Converting page 1/22 from pixels to searchable PDF
+Converting page 2/22 from pixels to searchable PDF
+Converting page 3/22 from pixels to searchable PDF
+Converting page 4/22 from pixels to searchable PDF
+Converting page 5/22 from pixels to searchable PDF
+Converting page 6/22 from pixels to searchable PDF
+Converting page 7/22 from pixels to searchable PDF
+Converting page 8/22 from pixels to searchable PDF
+Converting page 9/22 from pixels to searchable PDF
+Converting page 10/22 from pixels to searchable PDF
+Converting page 11/22 from pixels to searchable PDF
+Converting page 12/22 from pixels to searchable PDF
+Converting page 13/22 from pixels to searchable PDF
+Converting page 14/22 from pixels to searchable PDF
+Converting page 15/22 from pixels to searchable PDF
+Converting page 16/22 from pixels to searchable PDF
+Converting page 17/22 from pixels to searchable PDF
+Converting page 18/22 from pixels to searchable PDF
+Converting page 19/22 from pixels to searchable PDF
+Converting page 20/22 from pixels to searchable PDF
+Converting page 21/22 from pixels to searchable PDF
+Converting page 22/22 from pixels to searchable PDF
+Merging 22 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

@@ -1,0 +1,28 @@
+Calculating number of pages
+pdfinfo: Author:          PDF Insecurity Team
+pdfinfo: Creator:         Microsoft® Word 2019
+pdfinfo: Producer:        Microsoft® Word 2019
+pdfinfo: CreationDate:    Thu Aug  6 12:45:04 2020 UTC
+pdfinfo: ModDate:         Thu Aug  6 13:41:32 2020 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          yes
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            AcroForm
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           1
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       612 x 792 pts (letter)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       22023 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     2.0
+pdftoppm: 1 1 /tmp/page-1.ppm
+Converting page 1/1 to pixels
+Converted document to pixels
+Converting page 1/1 from pixels to searchable PDF
+Merging 1 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

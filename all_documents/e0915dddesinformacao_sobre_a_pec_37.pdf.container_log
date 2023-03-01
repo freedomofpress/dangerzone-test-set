@@ -1,0 +1,41 @@
+Calculating number of pages
+pdfinfo: Title:           (Microsoft Word - DESINFORMA\307\303O SOBRE A PEC 37)
+pdfinfo: Author:          nrf
+pdfinfo: Creator:         PScript5.dll Version 5.2.2
+pdfinfo: Producer:        GPL Ghostscript 8.15
+pdfinfo: CreationDate:    Mon Feb 24 12:32:31 2014 UTC
+pdfinfo: ModDate:         Mon Feb 24 12:32:31 2014 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: no
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           5
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       595 x 842 pts (A4)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       76969 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.4
+pdftoppm: 1 5 /tmp/page-1.ppm
+Converting page 1/5 to pixels
+pdftoppm: 2 5 /tmp/page-2.ppm
+Converting page 2/5 to pixels
+pdftoppm: 3 5 /tmp/page-3.ppm
+Converting page 3/5 to pixels
+pdftoppm: 4 5 /tmp/page-4.ppm
+Converting page 4/5 to pixels
+pdftoppm: 5 5 /tmp/page-5.ppm
+Converting page 5/5 to pixels
+Converted document to pixels
+Converting page 1/5 from pixels to searchable PDF
+Converting page 2/5 from pixels to searchable PDF
+Converting page 3/5 from pixels to searchable PDF
+Converting page 4/5 from pixels to searchable PDF
+Converting page 5/5 from pixels to searchable PDF
+Merging 5 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

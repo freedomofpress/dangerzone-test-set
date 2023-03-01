@@ -1,0 +1,29 @@
+Calculating number of pages
+pdfinfo: Title:           41105.pmd
+pdfinfo: Author:          bbemisd
+pdfinfo: Creator:         PageMaker 7.0
+pdfinfo: Producer:        Acrobat Distiller 7.0 (Windows)
+pdfinfo: CreationDate:    Wed Feb 11 18:40:21 2009 UTC
+pdfinfo: ModDate:         Tue May 28 21:45:32 2013 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            AcroForm
+pdfinfo: JavaScript:      yes
+pdfinfo: Pages:           1
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       612 x 792 pts (letter)
+pdfinfo: Page rot:        270
+pdfinfo: File size:       249572 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.6
+pdftoppm: 1 1 /tmp/page-1.ppm
+Converting page 1/1 to pixels
+Converted document to pixels
+Converting page 1/1 from pixels to searchable PDF
+Merging 1 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

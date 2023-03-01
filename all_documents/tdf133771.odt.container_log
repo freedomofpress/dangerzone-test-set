@@ -1,0 +1,6 @@
+Converting to PDF using LibreOffice
+libreoffice: Error: source file could not be loaded
+Calculating number of pages
+pdfinfo: I/O Error: Couldn't open file '/tmp/input_file.pdf': No such file or directory.
+error: PDF file is corrupted
+Result: FAILURE

@@ -1,0 +1,31 @@
+Calculating number of pages
+pdfinfo: Title:           2013 Form 8582
+pdfinfo: Subject:         Passive Activity Loss Limitations
+pdfinfo: Keywords:        Fillable
+pdfinfo: Author:          SE:W:CAR:MP
+pdfinfo: Creator:         Adobe LiveCycle Designer ES 9.0
+pdfinfo: Producer:        Acrobat Distiller 10.1.8 (Windows)
+pdfinfo: CreationDate:    Tue Oct 15 00:38:55 2013 UTC
+pdfinfo: ModDate:         Fri Dec 27 23:36:51 2013 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            AcroForm
+pdfinfo: JavaScript:      yes
+pdfinfo: Pages:           1
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       612 x 792 pts (letter)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       140502 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.6
+pdftoppm: 1 1 /tmp/page-1.ppm
+Converting page 1/1 to pixels
+Converted document to pixels
+Converting page 1/1 from pixels to searchable PDF
+Merging 1 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

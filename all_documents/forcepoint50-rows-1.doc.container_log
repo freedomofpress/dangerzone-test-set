@@ -1,0 +1,331 @@
+Converting to PDF using LibreOffice
+libreoffice: convert /tmp/input_file -> /tmp/input_file.pdf using filter : writer_pdf_Export
+Calculating number of pages
+pdfinfo: Creator:         Writer
+pdfinfo: Producer:        LibreOffice 7.3
+pdfinfo: CreationDate:    Thu Feb 23 08:09:59 2023 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: no
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           102
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       595.304 x 841.89 pts (A4)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       299457 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.6
+pdftoppm: 1 102 /tmp/page-001.ppm
+Converting page 1/102 to pixels
+pdftoppm: 2 102 /tmp/page-002.ppm
+Converting page 2/102 to pixels
+pdftoppm: 3 102 /tmp/page-003.ppm
+Converting page 3/102 to pixels
+pdftoppm: 4 102 /tmp/page-004.ppm
+Converting page 4/102 to pixels
+pdftoppm: 5 102 /tmp/page-005.ppm
+Converting page 5/102 to pixels
+pdftoppm: 6 102 /tmp/page-006.ppm
+Converting page 6/102 to pixels
+pdftoppm: 7 102 /tmp/page-007.ppm
+Converting page 7/102 to pixels
+pdftoppm: 8 102 /tmp/page-008.ppm
+Converting page 8/102 to pixels
+pdftoppm: 9 102 /tmp/page-009.ppm
+Converting page 9/102 to pixels
+pdftoppm: 10 102 /tmp/page-010.ppm
+Converting page 10/102 to pixels
+pdftoppm: 11 102 /tmp/page-011.ppm
+Converting page 11/102 to pixels
+pdftoppm: 12 102 /tmp/page-012.ppm
+Converting page 12/102 to pixels
+pdftoppm: 13 102 /tmp/page-013.ppm
+Converting page 13/102 to pixels
+pdftoppm: 14 102 /tmp/page-014.ppm
+Converting page 14/102 to pixels
+pdftoppm: 15 102 /tmp/page-015.ppm
+Converting page 15/102 to pixels
+pdftoppm: 16 102 /tmp/page-016.ppm
+Converting page 16/102 to pixels
+pdftoppm: 17 102 /tmp/page-017.ppm
+Converting page 17/102 to pixels
+pdftoppm: 18 102 /tmp/page-018.ppm
+Converting page 18/102 to pixels
+pdftoppm: 19 102 /tmp/page-019.ppm
+Converting page 19/102 to pixels
+pdftoppm: 20 102 /tmp/page-020.ppm
+Converting page 20/102 to pixels
+pdftoppm: 21 102 /tmp/page-021.ppm
+Converting page 21/102 to pixels
+pdftoppm: 22 102 /tmp/page-022.ppm
+Converting page 22/102 to pixels
+pdftoppm: 23 102 /tmp/page-023.ppm
+Converting page 23/102 to pixels
+pdftoppm: 24 102 /tmp/page-024.ppm
+Converting page 24/102 to pixels
+pdftoppm: 25 102 /tmp/page-025.ppm
+Converting page 25/102 to pixels
+pdftoppm: 26 102 /tmp/page-026.ppm
+Converting page 26/102 to pixels
+pdftoppm: 27 102 /tmp/page-027.ppm
+Converting page 27/102 to pixels
+pdftoppm: 28 102 /tmp/page-028.ppm
+Converting page 28/102 to pixels
+pdftoppm: 29 102 /tmp/page-029.ppm
+Converting page 29/102 to pixels
+pdftoppm: 30 102 /tmp/page-030.ppm
+Converting page 30/102 to pixels
+pdftoppm: 31 102 /tmp/page-031.ppm
+Converting page 31/102 to pixels
+pdftoppm: 32 102 /tmp/page-032.ppm
+Converting page 32/102 to pixels
+pdftoppm: 33 102 /tmp/page-033.ppm
+Converting page 33/102 to pixels
+pdftoppm: 34 102 /tmp/page-034.ppm
+Converting page 34/102 to pixels
+pdftoppm: 35 102 /tmp/page-035.ppm
+Converting page 35/102 to pixels
+pdftoppm: 36 102 /tmp/page-036.ppm
+Converting page 36/102 to pixels
+pdftoppm: 37 102 /tmp/page-037.ppm
+Converting page 37/102 to pixels
+pdftoppm: 38 102 /tmp/page-038.ppm
+Converting page 38/102 to pixels
+pdftoppm: 39 102 /tmp/page-039.ppm
+Converting page 39/102 to pixels
+pdftoppm: 40 102 /tmp/page-040.ppm
+Converting page 40/102 to pixels
+pdftoppm: 41 102 /tmp/page-041.ppm
+Converting page 41/102 to pixels
+pdftoppm: 42 102 /tmp/page-042.ppm
+Converting page 42/102 to pixels
+pdftoppm: 43 102 /tmp/page-043.ppm
+Converting page 43/102 to pixels
+pdftoppm: 44 102 /tmp/page-044.ppm
+Converting page 44/102 to pixels
+pdftoppm: 45 102 /tmp/page-045.ppm
+Converting page 45/102 to pixels
+pdftoppm: 46 102 /tmp/page-046.ppm
+Converting page 46/102 to pixels
+pdftoppm: 47 102 /tmp/page-047.ppm
+Converting page 47/102 to pixels
+pdftoppm: 48 102 /tmp/page-048.ppm
+Converting page 48/102 to pixels
+pdftoppm: 49 102 /tmp/page-049.ppm
+Converting page 49/102 to pixels
+pdftoppm: 50 102 /tmp/page-050.ppm
+Converting page 50/102 to pixels
+pdftoppm: 51 102 /tmp/page-051.ppm
+Converting page 51/102 to pixels
+pdftoppm: 52 102 /tmp/page-052.ppm
+Converting page 52/102 to pixels
+pdftoppm: 53 102 /tmp/page-053.ppm
+Converting page 53/102 to pixels
+pdftoppm: 54 102 /tmp/page-054.ppm
+Converting page 54/102 to pixels
+pdftoppm: 55 102 /tmp/page-055.ppm
+Converting page 55/102 to pixels
+pdftoppm: 56 102 /tmp/page-056.ppm
+Converting page 56/102 to pixels
+pdftoppm: 57 102 /tmp/page-057.ppm
+Converting page 57/102 to pixels
+pdftoppm: 58 102 /tmp/page-058.ppm
+Converting page 58/102 to pixels
+pdftoppm: 59 102 /tmp/page-059.ppm
+Converting page 59/102 to pixels
+pdftoppm: 60 102 /tmp/page-060.ppm
+Converting page 60/102 to pixels
+pdftoppm: 61 102 /tmp/page-061.ppm
+Converting page 61/102 to pixels
+pdftoppm: 62 102 /tmp/page-062.ppm
+Converting page 62/102 to pixels
+pdftoppm: 63 102 /tmp/page-063.ppm
+Converting page 63/102 to pixels
+pdftoppm: 64 102 /tmp/page-064.ppm
+Converting page 64/102 to pixels
+pdftoppm: 65 102 /tmp/page-065.ppm
+Converting page 65/102 to pixels
+pdftoppm: 66 102 /tmp/page-066.ppm
+Converting page 66/102 to pixels
+pdftoppm: 67 102 /tmp/page-067.ppm
+Converting page 67/102 to pixels
+pdftoppm: 68 102 /tmp/page-068.ppm
+Converting page 68/102 to pixels
+pdftoppm: 69 102 /tmp/page-069.ppm
+Converting page 69/102 to pixels
+pdftoppm: 70 102 /tmp/page-070.ppm
+Converting page 70/102 to pixels
+pdftoppm: 71 102 /tmp/page-071.ppm
+Converting page 71/102 to pixels
+pdftoppm: 72 102 /tmp/page-072.ppm
+Converting page 72/102 to pixels
+pdftoppm: 73 102 /tmp/page-073.ppm
+Converting page 73/102 to pixels
+pdftoppm: 74 102 /tmp/page-074.ppm
+Converting page 74/102 to pixels
+pdftoppm: 75 102 /tmp/page-075.ppm
+Converting page 75/102 to pixels
+pdftoppm: 76 102 /tmp/page-076.ppm
+Converting page 76/102 to pixels
+pdftoppm: 77 102 /tmp/page-077.ppm
+Converting page 77/102 to pixels
+pdftoppm: 78 102 /tmp/page-078.ppm
+Converting page 78/102 to pixels
+pdftoppm: 79 102 /tmp/page-079.ppm
+Converting page 79/102 to pixels
+pdftoppm: 80 102 /tmp/page-080.ppm
+Converting page 80/102 to pixels
+pdftoppm: 81 102 /tmp/page-081.ppm
+Converting page 81/102 to pixels
+pdftoppm: 82 102 /tmp/page-082.ppm
+Converting page 82/102 to pixels
+pdftoppm: 83 102 /tmp/page-083.ppm
+Converting page 83/102 to pixels
+pdftoppm: 84 102 /tmp/page-084.ppm
+Converting page 84/102 to pixels
+pdftoppm: 85 102 /tmp/page-085.ppm
+Converting page 85/102 to pixels
+pdftoppm: 86 102 /tmp/page-086.ppm
+Converting page 86/102 to pixels
+pdftoppm: 87 102 /tmp/page-087.ppm
+Converting page 87/102 to pixels
+pdftoppm: 88 102 /tmp/page-088.ppm
+Converting page 88/102 to pixels
+pdftoppm: 89 102 /tmp/page-089.ppm
+Converting page 89/102 to pixels
+pdftoppm: 90 102 /tmp/page-090.ppm
+Converting page 90/102 to pixels
+pdftoppm: 91 102 /tmp/page-091.ppm
+Converting page 91/102 to pixels
+pdftoppm: 92 102 /tmp/page-092.ppm
+Converting page 92/102 to pixels
+pdftoppm: 93 102 /tmp/page-093.ppm
+Converting page 93/102 to pixels
+pdftoppm: 94 102 /tmp/page-094.ppm
+Converting page 94/102 to pixels
+pdftoppm: 95 102 /tmp/page-095.ppm
+Converting page 95/102 to pixels
+pdftoppm: 96 102 /tmp/page-096.ppm
+Converting page 96/102 to pixels
+pdftoppm: 97 102 /tmp/page-097.ppm
+Converting page 97/102 to pixels
+pdftoppm: 98 102 /tmp/page-098.ppm
+Converting page 98/102 to pixels
+pdftoppm: 99 102 /tmp/page-099.ppm
+Converting page 99/102 to pixels
+pdftoppm: 100 102 /tmp/page-100.ppm
+Converting page 100/102 to pixels
+pdftoppm: 101 102 /tmp/page-101.ppm
+Converting page 101/102 to pixels
+pdftoppm: 102 102 /tmp/page-102.ppm
+Converting page 102/102 to pixels
+Converted document to pixels
+Converting page 1/102 from pixels to searchable PDF
+Converting page 2/102 from pixels to searchable PDF
+Converting page 3/102 from pixels to searchable PDF
+Converting page 4/102 from pixels to searchable PDF
+Converting page 5/102 from pixels to searchable PDF
+Converting page 6/102 from pixels to searchable PDF
+Converting page 7/102 from pixels to searchable PDF
+Converting page 8/102 from pixels to searchable PDF
+Converting page 9/102 from pixels to searchable PDF
+Converting page 10/102 from pixels to searchable PDF
+Converting page 11/102 from pixels to searchable PDF
+Converting page 12/102 from pixels to searchable PDF
+Converting page 13/102 from pixels to searchable PDF
+Converting page 14/102 from pixels to searchable PDF
+Converting page 15/102 from pixels to searchable PDF
+Converting page 16/102 from pixels to searchable PDF
+Converting page 17/102 from pixels to searchable PDF
+Converting page 18/102 from pixels to searchable PDF
+Converting page 19/102 from pixels to searchable PDF
+Converting page 20/102 from pixels to searchable PDF
+Converting page 21/102 from pixels to searchable PDF
+Converting page 22/102 from pixels to searchable PDF
+Converting page 23/102 from pixels to searchable PDF
+Converting page 24/102 from pixels to searchable PDF
+Converting page 25/102 from pixels to searchable PDF
+Converting page 26/102 from pixels to searchable PDF
+Converting page 27/102 from pixels to searchable PDF
+Converting page 28/102 from pixels to searchable PDF
+Converting page 29/102 from pixels to searchable PDF
+Converting page 30/102 from pixels to searchable PDF
+Converting page 31/102 from pixels to searchable PDF
+Converting page 32/102 from pixels to searchable PDF
+Converting page 33/102 from pixels to searchable PDF
+Converting page 34/102 from pixels to searchable PDF
+Converting page 35/102 from pixels to searchable PDF
+Converting page 36/102 from pixels to searchable PDF
+Converting page 37/102 from pixels to searchable PDF
+Converting page 38/102 from pixels to searchable PDF
+Converting page 39/102 from pixels to searchable PDF
+Converting page 40/102 from pixels to searchable PDF
+Converting page 41/102 from pixels to searchable PDF
+Converting page 42/102 from pixels to searchable PDF
+Converting page 43/102 from pixels to searchable PDF
+Converting page 44/102 from pixels to searchable PDF
+Converting page 45/102 from pixels to searchable PDF
+Converting page 46/102 from pixels to searchable PDF
+Converting page 47/102 from pixels to searchable PDF
+Converting page 48/102 from pixels to searchable PDF
+Converting page 49/102 from pixels to searchable PDF
+Converting page 50/102 from pixels to searchable PDF
+Converting page 51/102 from pixels to searchable PDF
+Converting page 52/102 from pixels to searchable PDF
+Converting page 53/102 from pixels to searchable PDF
+Converting page 54/102 from pixels to searchable PDF
+Converting page 55/102 from pixels to searchable PDF
+Converting page 56/102 from pixels to searchable PDF
+Converting page 57/102 from pixels to searchable PDF
+Converting page 58/102 from pixels to searchable PDF
+Converting page 59/102 from pixels to searchable PDF
+Converting page 60/102 from pixels to searchable PDF
+Converting page 61/102 from pixels to searchable PDF
+Converting page 62/102 from pixels to searchable PDF
+Converting page 63/102 from pixels to searchable PDF
+Converting page 64/102 from pixels to searchable PDF
+Converting page 65/102 from pixels to searchable PDF
+Converting page 66/102 from pixels to searchable PDF
+Converting page 67/102 from pixels to searchable PDF
+Converting page 68/102 from pixels to searchable PDF
+Converting page 69/102 from pixels to searchable PDF
+Converting page 70/102 from pixels to searchable PDF
+Converting page 71/102 from pixels to searchable PDF
+Converting page 72/102 from pixels to searchable PDF
+Converting page 73/102 from pixels to searchable PDF
+Converting page 74/102 from pixels to searchable PDF
+Converting page 75/102 from pixels to searchable PDF
+Converting page 76/102 from pixels to searchable PDF
+Converting page 77/102 from pixels to searchable PDF
+Converting page 78/102 from pixels to searchable PDF
+Converting page 79/102 from pixels to searchable PDF
+Converting page 80/102 from pixels to searchable PDF
+Converting page 81/102 from pixels to searchable PDF
+Converting page 82/102 from pixels to searchable PDF
+Converting page 83/102 from pixels to searchable PDF
+Converting page 84/102 from pixels to searchable PDF
+Converting page 85/102 from pixels to searchable PDF
+Converting page 86/102 from pixels to searchable PDF
+Converting page 87/102 from pixels to searchable PDF
+Converting page 88/102 from pixels to searchable PDF
+Converting page 89/102 from pixels to searchable PDF
+Converting page 90/102 from pixels to searchable PDF
+Converting page 91/102 from pixels to searchable PDF
+Converting page 92/102 from pixels to searchable PDF
+Converting page 93/102 from pixels to searchable PDF
+Converting page 94/102 from pixels to searchable PDF
+Converting page 95/102 from pixels to searchable PDF
+Converting page 96/102 from pixels to searchable PDF
+Converting page 97/102 from pixels to searchable PDF
+Converting page 98/102 from pixels to searchable PDF
+Converting page 99/102 from pixels to searchable PDF
+Converting page 100/102 from pixels to searchable PDF
+Converting page 101/102 from pixels to searchable PDF
+Converting page 102/102 from pixels to searchable PDF
+Merging 102 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

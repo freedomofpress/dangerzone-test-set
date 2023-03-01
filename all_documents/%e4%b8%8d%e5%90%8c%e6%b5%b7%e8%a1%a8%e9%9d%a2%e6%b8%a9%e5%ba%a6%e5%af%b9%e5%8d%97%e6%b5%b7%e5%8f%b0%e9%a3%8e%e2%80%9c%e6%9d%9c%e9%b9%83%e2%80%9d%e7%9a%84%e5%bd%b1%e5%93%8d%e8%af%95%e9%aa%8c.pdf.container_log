@@ -1,0 +1,46 @@
+Calculating number of pages
+pdfinfo: Title:           不同海表面温度对南海台风“杜鹃”的影响试验
+pdfinfo: Author:          维普资讯有限公司
+pdfinfo: Creator:         重庆维普资讯有限公司技术部
+pdfinfo: Producer:        PDFlib Personalization Server 6.0.3p5 (COM/Win32)
+pdfinfo: CreationDate:    Wed Sep 16 04:28:57 2009 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: no
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           6
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       549 x 791 pts
+pdfinfo: Page rot:        0
+pdfinfo: File size:       1211780 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.5
+pdftoppm: 1 6 /tmp/page-1.ppm
+Converting page 1/6 to pixels
+pdftoppm: Syntax Warning: Problem with skipping JPEG2000 box, stream error<0a>
+pdftoppm: 2 6 /tmp/page-2.ppm
+Converting page 2/6 to pixels
+pdftoppm: Syntax Warning: Problem with skipping JPEG2000 box, stream error<0a>
+pdftoppm: 3 6 /tmp/page-3.ppm
+Converting page 3/6 to pixels
+pdftoppm: Syntax Warning: Problem with skipping JPEG2000 box, stream error<0a>
+pdftoppm: 4 6 /tmp/page-4.ppm
+Converting page 4/6 to pixels
+pdftoppm: 5 6 /tmp/page-5.ppm
+Converting page 5/6 to pixels
+pdftoppm: 6 6 /tmp/page-6.ppm
+Converting page 6/6 to pixels
+Converted document to pixels
+Converting page 1/6 from pixels to searchable PDF
+Converting page 2/6 from pixels to searchable PDF
+Converting page 3/6 from pixels to searchable PDF
+Converting page 4/6 from pixels to searchable PDF
+Converting page 5/6 from pixels to searchable PDF
+Converting page 6/6 from pixels to searchable PDF
+Merging 6 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

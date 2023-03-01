@@ -1,0 +1,65 @@
+Converting to PDF using LibreOffice
+libreoffice: convert /tmp/input_file -> /tmp/input_file.pdf using filter : calc_pdf_Export
+Calculating number of pages
+pdfinfo: Author:          Darren Kenny
+pdfinfo: Creator:         Calc
+pdfinfo: Producer:        LibreOffice 7.3
+pdfinfo: CreationDate:    Thu Feb 23 00:18:23 2023 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: no
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            AcroForm
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           13
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       595.304 x 841.89 pts (A4)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       23283 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.6
+pdftoppm: 1 13 /tmp/page-01.ppm
+Converting page 1/13 to pixels
+pdftoppm: 2 13 /tmp/page-02.ppm
+Converting page 2/13 to pixels
+pdftoppm: 3 13 /tmp/page-03.ppm
+Converting page 3/13 to pixels
+pdftoppm: 4 13 /tmp/page-04.ppm
+Converting page 4/13 to pixels
+pdftoppm: 5 13 /tmp/page-05.ppm
+Converting page 5/13 to pixels
+pdftoppm: 6 13 /tmp/page-06.ppm
+Converting page 6/13 to pixels
+pdftoppm: 7 13 /tmp/page-07.ppm
+Converting page 7/13 to pixels
+pdftoppm: 8 13 /tmp/page-08.ppm
+Converting page 8/13 to pixels
+pdftoppm: 9 13 /tmp/page-09.ppm
+Converting page 9/13 to pixels
+pdftoppm: 10 13 /tmp/page-10.ppm
+Converting page 10/13 to pixels
+pdftoppm: 11 13 /tmp/page-11.ppm
+Converting page 11/13 to pixels
+pdftoppm: 12 13 /tmp/page-12.ppm
+Converting page 12/13 to pixels
+pdftoppm: 13 13 /tmp/page-13.ppm
+Converting page 13/13 to pixels
+Converted document to pixels
+Converting page 1/13 from pixels to searchable PDF
+Converting page 2/13 from pixels to searchable PDF
+Converting page 3/13 from pixels to searchable PDF
+Converting page 4/13 from pixels to searchable PDF
+Converting page 5/13 from pixels to searchable PDF
+Converting page 6/13 from pixels to searchable PDF
+Converting page 7/13 from pixels to searchable PDF
+Converting page 8/13 from pixels to searchable PDF
+Converting page 9/13 from pixels to searchable PDF
+Converting page 10/13 from pixels to searchable PDF
+Converting page 11/13 from pixels to searchable PDF
+Converting page 12/13 from pixels to searchable PDF
+Converting page 13/13 from pixels to searchable PDF
+Merging 13 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

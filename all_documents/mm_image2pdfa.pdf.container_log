@@ -1,0 +1,31 @@
+Calculating number of pages
+pdfinfo: Title:           Title1 Title2 Title3
+pdfinfo: Subject:         Subject1 Subject2 Subject3
+pdfinfo: Keywords:        Keyword1 Keyword2 Keyword3
+pdfinfo: Author:          Author1 Author2 Author3
+pdfinfo: Creator:         PdfNET
+pdfinfo: Producer:        PdfNET - http://www.pdftools.at
+pdfinfo: CreationDate:    Fri Mar  6 14:05:50 2009 UTC
+pdfinfo: ModDate:         Fri Mar  6 14:05:50 2009 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           1
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       595.03 x 841.89 pts (A4)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       236605 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.4
+pdftoppm: 1 1 /tmp/page-1.ppm
+Converting page 1/1 to pixels
+Converted document to pixels
+Converting page 1/1 from pixels to searchable PDF
+Merging 1 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

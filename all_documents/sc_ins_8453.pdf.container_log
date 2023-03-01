@@ -1,0 +1,27 @@
+Calculating number of pages
+pdfinfo: Creator:         Adobe Central Output Server 5.6
+pdfinfo: Producer:        Adobe Central Output Server Print Agent 5.6
+pdfinfo: CreationDate:    Fri Jul 23 14:03:58 2010 UTC
+pdfinfo: ModDate:         Sat Dec 21 01:21:20 2013 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            AcroForm
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           1
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       612 x 792 pts (letter)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       44164 bytes
+pdfinfo: Optimized:       yes
+pdfinfo: PDF version:     1.6
+pdftoppm: 1 1 /tmp/page-1.ppm
+Converting page 1/1 to pixels
+Converted document to pixels
+Converting page 1/1 from pixels to searchable PDF
+Merging 1 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

@@ -1,0 +1,32 @@
+Calculating number of pages
+pdfinfo: Title:           41131 (IA 6251).pmd
+pdfinfo: Author:          karvids
+pdfinfo: Creator:         PageMaker 7.0
+pdfinfo: Producer:        GPL Ghostscript 8.15
+pdfinfo: CreationDate:    Mon Sep 17 13:25:22 2012 UTC
+pdfinfo: ModDate:         Mon Jul 22 20:56:01 2013 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            AcroForm
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           2
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       612 x 792 pts (letter)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       504011 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.4
+pdftoppm: 1 2 /tmp/page-1.ppm
+Converting page 1/2 to pixels
+pdftoppm: 2 2 /tmp/page-2.ppm
+Converting page 2/2 to pixels
+Converted document to pixels
+Converting page 1/2 from pixels to searchable PDF
+Converting page 2/2 from pixels to searchable PDF
+Merging 2 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

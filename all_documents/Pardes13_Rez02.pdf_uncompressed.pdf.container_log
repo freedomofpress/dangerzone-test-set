@@ -1,0 +1,38 @@
+Calculating number of pages
+pdfinfo: Title:           Menahem I. Kahana: Sifre Zuta Deuteronomy. Citations from a New Tannaitic Midrash.
+pdfinfo: Author:          Alexander Dubrau
+pdfinfo: Creator:         PScript5.dll Version 5.2
+pdfinfo: Producer:        Acrobat Distiller 8.1.0 (Windows)
+pdfinfo: CreationDate:    Tue Oct 30 13:18:54 2007 UTC
+pdfinfo: ModDate:         Mon Oct  6 07:11:49 2008 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            AcroForm
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           4
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       595.22 x 842 pts (A4)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       194169 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.7
+pdftoppm: 1 4 /tmp/page-1.ppm
+Converting page 1/4 to pixels
+pdftoppm: 2 4 /tmp/page-2.ppm
+Converting page 2/4 to pixels
+pdftoppm: 3 4 /tmp/page-3.ppm
+Converting page 3/4 to pixels
+pdftoppm: 4 4 /tmp/page-4.ppm
+Converting page 4/4 to pixels
+Converted document to pixels
+Converting page 1/4 from pixels to searchable PDF
+Converting page 2/4 from pixels to searchable PDF
+Converting page 3/4 from pixels to searchable PDF
+Converting page 4/4 from pixels to searchable PDF
+Merging 4 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

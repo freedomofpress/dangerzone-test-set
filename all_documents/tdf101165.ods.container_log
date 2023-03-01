@@ -1,0 +1,130 @@
+Converting to PDF using LibreOffice
+libreoffice: convert /tmp/input_file -> /tmp/input_file.pdf using filter : calc_pdf_Export
+Calculating number of pages
+pdfinfo: Creator:         Calc
+pdfinfo: Producer:        LibreOffice 7.3
+pdfinfo: CreationDate:    Wed Feb 22 18:23:30 2023 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: no
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           35
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       612 x 792 pts (letter)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       61304 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.6
+pdftoppm: 1 35 /tmp/page-01.ppm
+Converting page 1/35 to pixels
+pdftoppm: 2 35 /tmp/page-02.ppm
+Converting page 2/35 to pixels
+pdftoppm: 3 35 /tmp/page-03.ppm
+Converting page 3/35 to pixels
+pdftoppm: 4 35 /tmp/page-04.ppm
+Converting page 4/35 to pixels
+pdftoppm: 5 35 /tmp/page-05.ppm
+Converting page 5/35 to pixels
+pdftoppm: 6 35 /tmp/page-06.ppm
+Converting page 6/35 to pixels
+pdftoppm: 7 35 /tmp/page-07.ppm
+Converting page 7/35 to pixels
+pdftoppm: 8 35 /tmp/page-08.ppm
+Converting page 8/35 to pixels
+pdftoppm: 9 35 /tmp/page-09.ppm
+Converting page 9/35 to pixels
+pdftoppm: 10 35 /tmp/page-10.ppm
+Converting page 10/35 to pixels
+pdftoppm: 11 35 /tmp/page-11.ppm
+Converting page 11/35 to pixels
+pdftoppm: 12 35 /tmp/page-12.ppm
+Converting page 12/35 to pixels
+pdftoppm: 13 35 /tmp/page-13.ppm
+Converting page 13/35 to pixels
+pdftoppm: 14 35 /tmp/page-14.ppm
+Converting page 14/35 to pixels
+pdftoppm: 15 35 /tmp/page-15.ppm
+Converting page 15/35 to pixels
+pdftoppm: 16 35 /tmp/page-16.ppm
+Converting page 16/35 to pixels
+pdftoppm: 17 35 /tmp/page-17.ppm
+Converting page 17/35 to pixels
+pdftoppm: 18 35 /tmp/page-18.ppm
+Converting page 18/35 to pixels
+pdftoppm: 19 35 /tmp/page-19.ppm
+Converting page 19/35 to pixels
+pdftoppm: 20 35 /tmp/page-20.ppm
+Converting page 20/35 to pixels
+pdftoppm: 21 35 /tmp/page-21.ppm
+Converting page 21/35 to pixels
+pdftoppm: 22 35 /tmp/page-22.ppm
+Converting page 22/35 to pixels
+pdftoppm: 23 35 /tmp/page-23.ppm
+Converting page 23/35 to pixels
+pdftoppm: 24 35 /tmp/page-24.ppm
+Converting page 24/35 to pixels
+pdftoppm: 25 35 /tmp/page-25.ppm
+Converting page 25/35 to pixels
+pdftoppm: 26 35 /tmp/page-26.ppm
+Converting page 26/35 to pixels
+pdftoppm: 27 35 /tmp/page-27.ppm
+Converting page 27/35 to pixels
+pdftoppm: 28 35 /tmp/page-28.ppm
+Converting page 28/35 to pixels
+pdftoppm: 29 35 /tmp/page-29.ppm
+Converting page 29/35 to pixels
+pdftoppm: 30 35 /tmp/page-30.ppm
+Converting page 30/35 to pixels
+pdftoppm: 31 35 /tmp/page-31.ppm
+Converting page 31/35 to pixels
+pdftoppm: 32 35 /tmp/page-32.ppm
+Converting page 32/35 to pixels
+pdftoppm: 33 35 /tmp/page-33.ppm
+Converting page 33/35 to pixels
+pdftoppm: 34 35 /tmp/page-34.ppm
+Converting page 34/35 to pixels
+pdftoppm: 35 35 /tmp/page-35.ppm
+Converting page 35/35 to pixels
+Converted document to pixels
+Converting page 1/35 from pixels to searchable PDF
+Converting page 2/35 from pixels to searchable PDF
+Converting page 3/35 from pixels to searchable PDF
+Converting page 4/35 from pixels to searchable PDF
+Converting page 5/35 from pixels to searchable PDF
+Converting page 6/35 from pixels to searchable PDF
+Converting page 7/35 from pixels to searchable PDF
+Converting page 8/35 from pixels to searchable PDF
+Converting page 9/35 from pixels to searchable PDF
+Converting page 10/35 from pixels to searchable PDF
+Converting page 11/35 from pixels to searchable PDF
+Converting page 12/35 from pixels to searchable PDF
+Converting page 13/35 from pixels to searchable PDF
+Converting page 14/35 from pixels to searchable PDF
+Converting page 15/35 from pixels to searchable PDF
+Converting page 16/35 from pixels to searchable PDF
+Converting page 17/35 from pixels to searchable PDF
+Converting page 18/35 from pixels to searchable PDF
+Converting page 19/35 from pixels to searchable PDF
+Converting page 20/35 from pixels to searchable PDF
+Converting page 21/35 from pixels to searchable PDF
+Converting page 22/35 from pixels to searchable PDF
+Converting page 23/35 from pixels to searchable PDF
+Converting page 24/35 from pixels to searchable PDF
+Converting page 25/35 from pixels to searchable PDF
+Converting page 26/35 from pixels to searchable PDF
+Converting page 27/35 from pixels to searchable PDF
+Converting page 28/35 from pixels to searchable PDF
+Converting page 29/35 from pixels to searchable PDF
+Converting page 30/35 from pixels to searchable PDF
+Converting page 31/35 from pixels to searchable PDF
+Converting page 32/35 from pixels to searchable PDF
+Converting page 33/35 from pixels to searchable PDF
+Converting page 34/35 from pixels to searchable PDF
+Converting page 35/35 from pixels to searchable PDF
+Merging 35 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

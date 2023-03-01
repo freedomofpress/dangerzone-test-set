@@ -1,0 +1,28 @@
+Calculating number of pages
+pdfinfo: Title:           S2
+pdfinfo: Creator:         Adobe Illustrator CS5
+pdfinfo: Producer:        Adobe PDF library 9.90
+pdfinfo: CreationDate:    Mon Sep 26 04:49:34 2011 UTC
+pdfinfo: ModDate:         Mon Sep 26 04:49:34 2011 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           1
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       540 x 720 pts
+pdfinfo: Page rot:        0
+pdfinfo: File size:       478490 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.5
+pdftoppm: 1 1 /tmp/page-1.ppm
+Converting page 1/1 to pixels
+Converted document to pixels
+Converting page 1/1 from pixels to searchable PDF
+Merging 1 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

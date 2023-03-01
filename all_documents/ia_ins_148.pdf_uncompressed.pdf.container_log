@@ -1,0 +1,38 @@
+Calculating number of pages
+pdfinfo: Title:           41148 (IA 148).pmd
+pdfinfo: Author:          karvids
+pdfinfo: Creator:         PageMaker 7.0
+pdfinfo: Producer:        GPL Ghostscript 8.15
+pdfinfo: CreationDate:    Wed Oct 31 14:32:33 2012 UTC
+pdfinfo: ModDate:         Mon Jul 22 19:27:49 2013 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            AcroForm
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           4
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       612 x 792 pts (letter)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       918130 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.5
+pdftoppm: 1 4 /tmp/page-1.ppm
+Converting page 1/4 to pixels
+pdftoppm: 2 4 /tmp/page-2.ppm
+Converting page 2/4 to pixels
+pdftoppm: 3 4 /tmp/page-3.ppm
+Converting page 3/4 to pixels
+pdftoppm: 4 4 /tmp/page-4.ppm
+Converting page 4/4 to pixels
+Converted document to pixels
+Converting page 1/4 from pixels to searchable PDF
+Converting page 2/4 from pixels to searchable PDF
+Converting page 3/4 from pixels to searchable PDF
+Converting page 4/4 from pixels to searchable PDF
+Merging 4 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

@@ -1,0 +1,29 @@
+Calculating number of pages
+pdfinfo: Title:           Microsoft Word - Document6
+pdfinfo: Author:          karvids
+pdfinfo: Creator:         PScript5.dll Version 5.2.2
+pdfinfo: Producer:        Acrobat Distiller 7.0.5 (Windows)
+pdfinfo: CreationDate:    Mon Feb 21 18:45:50 2011 UTC
+pdfinfo: ModDate:         Fri Aug 23 21:49:16 2013 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            AcroForm
+pdfinfo: JavaScript:      yes
+pdfinfo: Pages:           1
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       612 x 792 pts (letter)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       98546 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.6
+pdftoppm: 1 1 /tmp/page-1.ppm
+Converting page 1/1 to pixels
+Converted document to pixels
+Converting page 1/1 from pixels to searchable PDF
+Merging 1 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

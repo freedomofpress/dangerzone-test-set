@@ -1,0 +1,7 @@
+Converting to PDF using LibreOffice
+libreoffice: convert /tmp/input_file -> /tmp/input_file.pdf using filter : impress_pdf_Export
+libreoffice: Error: Please verify input parameters... (SfxBaseModel::impl_store <file:///tmp/input_file.pdf> failed: 0xc10(Error Area:Io Class:Write Code:16) /home/buildozer/aports/community/libreoffice/src/libreoffice-7.3.7.2/sfx2/source/doc/sfxbasemodel.cxx:3200 /home/buildozer/aports/community/libreoffice/src/libreoffice-7.3.7.2/sfx2/source/doc/sfxbasemodel.cxx:1775)
+Calculating number of pages
+pdfinfo: I/O Error: Couldn't open file '/tmp/input_file.pdf': No such file or directory.
+error: PDF file is corrupted
+Result: FAILURE

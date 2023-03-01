@@ -1,0 +1,32 @@
+Calculating number of pages
+pdfinfo: Title:           HTML5 Canvas Cheat Sheet
+pdfinfo: Author:          Jacob
+pdfinfo: Creator:         PScript5.dll Version 5.2.2
+pdfinfo: Producer:        GPL Ghostscript 8.60
+pdfinfo: CreationDate:    Tue May  5 18:26:32 2009 UTC
+pdfinfo: ModDate:         Tue May  5 18:26:32 2009 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           2
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       595 x 842 pts (A4)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       150904 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.4
+pdftoppm: 1 2 /tmp/page-1.ppm
+Converting page 1/2 to pixels
+pdftoppm: 2 2 /tmp/page-2.ppm
+Converting page 2/2 to pixels
+Converted document to pixels
+Converting page 1/2 from pixels to searchable PDF
+Converting page 2/2 from pixels to searchable PDF
+Merging 2 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

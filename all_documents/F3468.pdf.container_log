@@ -1,0 +1,35 @@
+Calculating number of pages
+pdfinfo: Subject:         Investment Credit
+pdfinfo: Author:          SE:W:CAR:MP
+pdfinfo: Creator:         Adobe LiveCycle Designer ES 8.2
+pdfinfo: Producer:        Acrobat Distiller 10.1.8 (Windows)
+pdfinfo: CreationDate:    Mon Nov 25 21:37:38 2013 UTC
+pdfinfo: ModDate:         Fri Jan 24 23:37:20 2014 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            AcroForm
+pdfinfo: JavaScript:      yes
+pdfinfo: Pages:           3
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       612 x 792 pts (letter)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       76733 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.6
+pdftoppm: 1 3 /tmp/page-1.ppm
+Converting page 1/3 to pixels
+pdftoppm: 2 3 /tmp/page-2.ppm
+Converting page 2/3 to pixels
+pdftoppm: 3 3 /tmp/page-3.ppm
+Converting page 3/3 to pixels
+Converted document to pixels
+Converting page 1/3 from pixels to searchable PDF
+Converting page 2/3 from pixels to searchable PDF
+Converting page 3/3 from pixels to searchable PDF
+Merging 3 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

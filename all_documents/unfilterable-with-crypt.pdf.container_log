@@ -1,0 +1,117 @@
+Calculating number of pages
+pdfinfo: CreationDate:    Sat Dec 29 21:49:10 2012 UTC
+pdfinfo: Syntax Error (14009): Can't revert non decrypt streams
+pdfinfo: Syntax Error (2): Unknown compression method in flate stream
+pdfinfo: Syntax Warning: Invalid number of bits needed to represent the difference between the greatest and least number of objects in a page
+pdfinfo: ModDate:         Sat Dec 29 22:33:38 2012 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      yes
+pdfinfo: Pages:           30
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       612 x 792 pts (letter)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       17868 bytes
+pdfinfo: Optimized:       yes
+pdfinfo: PDF version:     1.7
+pdftoppm: Syntax Error (2): Unknown compression method in flate stream
+pdftoppm: Syntax Warning: Invalid number of bits needed to represent the difference between the greatest and least number of objects in a page
+pdftoppm: 1 30 /tmp/page-01.ppm
+Converting page 1/30 to pixels
+pdftoppm: 2 30 /tmp/page-02.ppm
+Converting page 2/30 to pixels
+pdftoppm: 3 30 /tmp/page-03.ppm
+Converting page 3/30 to pixels
+pdftoppm: 4 30 /tmp/page-04.ppm
+Converting page 4/30 to pixels
+pdftoppm: 5 30 /tmp/page-05.ppm
+Converting page 5/30 to pixels
+pdftoppm: 6 30 /tmp/page-06.ppm
+Converting page 6/30 to pixels
+pdftoppm: 7 30 /tmp/page-07.ppm
+Converting page 7/30 to pixels
+pdftoppm: 8 30 /tmp/page-08.ppm
+Converting page 8/30 to pixels
+pdftoppm: 9 30 /tmp/page-09.ppm
+Converting page 9/30 to pixels
+pdftoppm: 10 30 /tmp/page-10.ppm
+Converting page 10/30 to pixels
+pdftoppm: 11 30 /tmp/page-11.ppm
+Converting page 11/30 to pixels
+pdftoppm: 12 30 /tmp/page-12.ppm
+Converting page 12/30 to pixels
+pdftoppm: 13 30 /tmp/page-13.ppm
+Converting page 13/30 to pixels
+pdftoppm: 14 30 /tmp/page-14.ppm
+Converting page 14/30 to pixels
+pdftoppm: 15 30 /tmp/page-15.ppm
+Converting page 15/30 to pixels
+pdftoppm: 16 30 /tmp/page-16.ppm
+Converting page 16/30 to pixels
+pdftoppm: 17 30 /tmp/page-17.ppm
+Converting page 17/30 to pixels
+pdftoppm: 18 30 /tmp/page-18.ppm
+Converting page 18/30 to pixels
+pdftoppm: 19 30 /tmp/page-19.ppm
+Converting page 19/30 to pixels
+pdftoppm: 20 30 /tmp/page-20.ppm
+Converting page 20/30 to pixels
+pdftoppm: 21 30 /tmp/page-21.ppm
+Converting page 21/30 to pixels
+pdftoppm: 22 30 /tmp/page-22.ppm
+Converting page 22/30 to pixels
+pdftoppm: 23 30 /tmp/page-23.ppm
+Converting page 23/30 to pixels
+pdftoppm: 24 30 /tmp/page-24.ppm
+Converting page 24/30 to pixels
+pdftoppm: 25 30 /tmp/page-25.ppm
+Converting page 25/30 to pixels
+pdftoppm: 26 30 /tmp/page-26.ppm
+Converting page 26/30 to pixels
+pdftoppm: 27 30 /tmp/page-27.ppm
+Converting page 27/30 to pixels
+pdftoppm: 28 30 /tmp/page-28.ppm
+Converting page 28/30 to pixels
+pdftoppm: 29 30 /tmp/page-29.ppm
+Converting page 29/30 to pixels
+pdftoppm: 30 30 /tmp/page-30.ppm
+Converting page 30/30 to pixels
+Converted document to pixels
+Converting page 1/30 from pixels to searchable PDF
+Converting page 2/30 from pixels to searchable PDF
+Converting page 3/30 from pixels to searchable PDF
+Converting page 4/30 from pixels to searchable PDF
+Converting page 5/30 from pixels to searchable PDF
+Converting page 6/30 from pixels to searchable PDF
+Converting page 7/30 from pixels to searchable PDF
+Converting page 8/30 from pixels to searchable PDF
+Converting page 9/30 from pixels to searchable PDF
+Converting page 10/30 from pixels to searchable PDF
+Converting page 11/30 from pixels to searchable PDF
+Converting page 12/30 from pixels to searchable PDF
+Converting page 13/30 from pixels to searchable PDF
+Converting page 14/30 from pixels to searchable PDF
+Converting page 15/30 from pixels to searchable PDF
+Converting page 16/30 from pixels to searchable PDF
+Converting page 17/30 from pixels to searchable PDF
+Converting page 18/30 from pixels to searchable PDF
+Converting page 19/30 from pixels to searchable PDF
+Converting page 20/30 from pixels to searchable PDF
+Converting page 21/30 from pixels to searchable PDF
+Converting page 22/30 from pixels to searchable PDF
+Converting page 23/30 from pixels to searchable PDF
+Converting page 24/30 from pixels to searchable PDF
+Converting page 25/30 from pixels to searchable PDF
+Converting page 26/30 from pixels to searchable PDF
+Converting page 27/30 from pixels to searchable PDF
+Converting page 28/30 from pixels to searchable PDF
+Converting page 29/30 from pixels to searchable PDF
+Converting page 30/30 from pixels to searchable PDF
+Merging 30 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

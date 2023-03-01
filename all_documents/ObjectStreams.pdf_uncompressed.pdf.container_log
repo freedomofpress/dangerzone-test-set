@@ -1,0 +1,28 @@
+Calculating number of pages
+pdfinfo: Title:           Untitled-12011_04_14_23_53_39
+pdfinfo: Creator:         XMPie uProduce v5.2 b5056 sp0
+pdfinfo: Producer:        Normalizer XMPie
+pdfinfo: CreationDate:    Thu Apr 14 20:54:05 2011 UTC
+pdfinfo: ModDate:         Thu Apr 14 21:25:14 2011 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           1
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       595.276 x 841.89 pts (A4)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       9035 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.6
+pdftoppm: 1 1 /tmp/page-1.ppm
+Converting page 1/1 to pixels
+Converted document to pixels
+Converting page 1/1 from pixels to searchable PDF
+Merging 1 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

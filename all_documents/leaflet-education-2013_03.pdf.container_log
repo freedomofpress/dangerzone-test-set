@@ -1,0 +1,33 @@
+Calculating number of pages
+pdfinfo: Title:           1311_子ども_b
+pdfinfo: Subject:
+pdfinfo: Keywords:
+pdfinfo: Author:
+pdfinfo: Creator:         PDForsell by Yomogi Software
+pdfinfo: Producer:        iTextSharp 5.1.2 (c) 1T3XT BVBA
+pdfinfo: ModDate:         Wed Jan 15 05:56:08 2014 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: no
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           2
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       595.28 x 841.89 pts (A4)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       12664103 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.4
+pdftoppm: 1 2 /tmp/page-1.ppm
+Converting page 1/2 to pixels
+pdftoppm: 2 2 /tmp/page-2.ppm
+Converting page 2/2 to pixels
+Converted document to pixels
+Converting page 1/2 from pixels to searchable PDF
+Converting page 2/2 from pixels to searchable PDF
+Merging 2 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

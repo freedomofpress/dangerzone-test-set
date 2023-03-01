@@ -1,0 +1,30 @@
+Calculating number of pages
+pdfinfo: Creator:         Adobe Acrobat 11.0.10
+pdfinfo: Producer:        Adobe Acrobat 11.0.10 Image Conversion Plug-in
+pdfinfo: CreationDate:    Mon Feb  9 22:23:02 2015 UTC
+pdfinfo: ModDate:         Mon Feb  9 22:24:32 2015 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           1
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       1500 x 1125 pts
+pdfinfo: Page rot:        0
+pdfinfo: File size:       2169844 bytes
+pdfinfo: Optimized:       yes
+pdfinfo: PDF version:     1.6
+pdftoppm: Syntax Error: Malformed JP2 file format: first box must be JPEG 2000 signature box<0a>
+pdftoppm: Syntax Warning: Unable to read header
+pdftoppm: Syntax Warning: Did no succeed opening JPX Stream as JP2, trying as J2K.
+pdftoppm: 1 1 /tmp/page-1.ppm
+Converting page 1/1 to pixels
+Converted document to pixels
+Converting page 1/1 from pixels to searchable PDF
+Merging 1 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

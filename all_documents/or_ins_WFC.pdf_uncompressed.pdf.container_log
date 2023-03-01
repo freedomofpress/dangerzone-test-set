@@ -1,0 +1,38 @@
+Calculating number of pages
+pdfinfo: Title:           2013 Schedule WFC, Oregon Working Family Child Care Credit for Full-Year Residents, 150-101-169
+pdfinfo: Author:          Oregon Department of Revenue
+pdfinfo: Creator:         Adobe InDesign CS5 (7.0.4)
+pdfinfo: Producer:        Adobe PDF Library 9.9
+pdfinfo: CreationDate:    Wed Jul 31 19:00:36 2013 UTC
+pdfinfo: ModDate:         Sat Dec 21 01:00:07 2013 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            AcroForm
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           4
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       612 x 792 pts (letter)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       231693 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.6
+pdftoppm: 1 4 /tmp/page-1.ppm
+Converting page 1/4 to pixels
+pdftoppm: 2 4 /tmp/page-2.ppm
+Converting page 2/4 to pixels
+pdftoppm: 3 4 /tmp/page-3.ppm
+Converting page 3/4 to pixels
+pdftoppm: 4 4 /tmp/page-4.ppm
+Converting page 4/4 to pixels
+Converted document to pixels
+Converting page 1/4 from pixels to searchable PDF
+Converting page 2/4 from pixels to searchable PDF
+Converting page 3/4 from pixels to searchable PDF
+Converting page 4/4 from pixels to searchable PDF
+Merging 4 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

@@ -1,0 +1,34 @@
+Calculating number of pages
+pdfinfo: Title:           Form 8697 (Rev. December 2011)
+pdfinfo: Subject:         Interest Computation Under the Look-Back Method for Completed Long-Term Contracts
+pdfinfo: Keywords:        Fillable
+pdfinfo: Author:          SE:W:CAR:MP
+pdfinfo: Creator:         Adobe LiveCycle Designer ES 8.2
+pdfinfo: Producer:        Acrobat Distiller 10.1.8 (Windows)
+pdfinfo: CreationDate:    Thu Oct 31 23:30:33 2013 UTC
+pdfinfo: ModDate:         Tue Jan 14 16:43:51 2014 UTC
+pdfinfo: Custom Metadata: yes
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            AcroForm
+pdfinfo: JavaScript:      yes
+pdfinfo: Pages:           2
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       612 x 792 pts (letter)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       99558 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.6
+pdftoppm: 1 2 /tmp/page-1.ppm
+Converting page 1/2 to pixels
+pdftoppm: 2 2 /tmp/page-2.ppm
+Converting page 2/2 to pixels
+Converted document to pixels
+Converting page 1/2 from pixels to searchable PDF
+Converting page 2/2 from pixels to searchable PDF
+Merging 2 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

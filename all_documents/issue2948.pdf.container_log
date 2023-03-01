@@ -1,0 +1,31 @@
+Calculating number of pages
+pdfinfo: Title:           CSS3 awesomeness
+pdfinfo: Subject:
+pdfinfo: Keywords:
+pdfinfo: Author:
+pdfinfo: Creator:         PDFCreator Version 1.6.2
+pdfinfo: Producer:        GPL Ghostscript 9.05
+pdfinfo: CreationDate:    Fri Mar 15 00:48:47 2013 UTC
+pdfinfo: ModDate:         Fri Mar 15 00:48:47 2013 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           1
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       612 x 792 pts (letter)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       23038 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.4
+pdftoppm: 1 1 /tmp/page-1.ppm
+Converting page 1/1 to pixels
+Converted document to pixels
+Converting page 1/1 from pixels to searchable PDF
+Merging 1 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

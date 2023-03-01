@@ -1,0 +1,40 @@
+Calculating number of pages
+pdfinfo: Title:           2013 Form 3903
+pdfinfo: Subject:         Moving Expenses
+pdfinfo: Keywords:        Fillable
+pdfinfo: Author:          SE:W:CAR:MP
+pdfinfo: Creator:         Adobe LiveCycle Designer ES 8.2
+pdfinfo: Producer:        Adobe LiveCycle Designer ES 8.2
+pdfinfo: CreationDate:    Thu Nov  6 15:21:37 2008 UTC
+pdfinfo: ModDate:         Thu Sep  5 14:11:25 2013 UTC
+pdfinfo: Custom Metadata: yes
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          yes
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            XFA
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           4
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       612 x 792 pts (letter)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       97231 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.7
+pdftoppm: 1 4 /tmp/page-1.ppm
+Converting page 1/4 to pixels
+pdftoppm: 2 4 /tmp/page-2.ppm
+Converting page 2/4 to pixels
+pdftoppm: 3 4 /tmp/page-3.ppm
+Converting page 3/4 to pixels
+pdftoppm: 4 4 /tmp/page-4.ppm
+Converting page 4/4 to pixels
+Converted document to pixels
+Converting page 1/4 from pixels to searchable PDF
+Converting page 2/4 from pixels to searchable PDF
+Converting page 3/4 from pixels to searchable PDF
+Converting page 4/4 from pixels to searchable PDF
+Merging 4 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

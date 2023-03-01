@@ -1,0 +1,29 @@
+Calculating number of pages
+pdfinfo: Author:          Anmar
+pdfinfo: Creator:         al  Nashir al Sahafi Yaqout Ver 3.0
+pdfinfo: Producer:        al  Nashir al Sahafi Yaqout Ver 3.0
+pdfinfo: CreationDate:    Wed Apr 24 07:55:53 2002 UTC
+pdfinfo: ModDate:         Wed Apr 24 07:55:53 2002 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: no
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           1
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       841 x 595 pts (A4)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       262406 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.4
+pdftoppm: Syntax Error: non-embedded font using identity encoding: TraditionalArabic
+pdftoppm: 1 1 /tmp/page-1.ppm
+Converting page 1/1 to pixels
+Converted document to pixels
+Converting page 1/1 from pixels to searchable PDF
+Merging 1 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

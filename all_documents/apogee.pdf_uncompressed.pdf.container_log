@@ -1,0 +1,47 @@
+Calculating number of pages
+pdfinfo: Title:           8up
+pdfinfo: Author:          MARYSE
+pdfinfo: Creator:         QuarkXPressª: LaserWriter 8.4.3 8.4.3
+pdfinfo: Producer:        Acrobat Distiller 9.0.0 (Windows)
+pdfinfo: CreationDate:    Fri Feb 27 19:09:34 2009 UTC
+pdfinfo: ModDate:         Fri Feb 27 19:09:34 2009 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           7
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       612 x 793 pts
+pdfinfo: Page rot:        0
+pdfinfo: File size:       1882761 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.4
+pdftoppm: 1 7 /tmp/page-1.ppm
+Converting page 1/7 to pixels
+pdftoppm: 2 7 /tmp/page-2.ppm
+Converting page 2/7 to pixels
+pdftoppm: 3 7 /tmp/page-3.ppm
+Converting page 3/7 to pixels
+pdftoppm: 4 7 /tmp/page-4.ppm
+Converting page 4/7 to pixels
+pdftoppm: 5 7 /tmp/page-5.ppm
+Converting page 5/7 to pixels
+pdftoppm: 6 7 /tmp/page-6.ppm
+Converting page 6/7 to pixels
+pdftoppm: 7 7 /tmp/page-7.ppm
+Converting page 7/7 to pixels
+Converted document to pixels
+Converting page 1/7 from pixels to searchable PDF
+Converting page 2/7 from pixels to searchable PDF
+Converting page 3/7 from pixels to searchable PDF
+Converting page 4/7 from pixels to searchable PDF
+Converting page 5/7 from pixels to searchable PDF
+Converting page 6/7 from pixels to searchable PDF
+Converting page 7/7 from pixels to searchable PDF
+Merging 7 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

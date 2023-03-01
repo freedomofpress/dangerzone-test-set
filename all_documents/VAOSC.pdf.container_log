@@ -1,0 +1,32 @@
+Calculating number of pages
+pdfinfo: Title:           Sch  OSC Web 09 06 12.indd
+pdfinfo: Author:          voe26309
+pdfinfo: Creator:         PScript5.dll Version 5.2.2
+pdfinfo: Producer:        Acrobat Distiller 9.5.2 (Windows)
+pdfinfo: CreationDate:    Thu Dec  6 14:54:26 2012 UTC
+pdfinfo: ModDate:         Tue Dec 31 22:30:40 2013 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            AcroForm
+pdfinfo: JavaScript:      yes
+pdfinfo: Pages:           2
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       612 x 792 pts (letter)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       51428 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.6
+pdftoppm: 1 2 /tmp/page-1.ppm
+Converting page 1/2 to pixels
+pdftoppm: 2 2 /tmp/page-2.ppm
+Converting page 2/2 to pixels
+Converted document to pixels
+Converting page 1/2 from pixels to searchable PDF
+Converting page 2/2 from pixels to searchable PDF
+Merging 2 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

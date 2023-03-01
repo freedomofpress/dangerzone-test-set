@@ -1,0 +1,29 @@
+Calculating number of pages
+pdfinfo: Title:           41137 bar code.pmd
+pdfinfo: Author:          karvids
+pdfinfo: Creator:         PageMaker 7.0
+pdfinfo: Producer:        GPL Ghostscript 8.15
+pdfinfo: CreationDate:    Wed Oct 17 15:09:47 2012 UTC
+pdfinfo: ModDate:         Mon Jul 22 20:55:09 2013 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            AcroForm
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           1
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       612 x 792 pts (letter)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       806104 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.5
+pdftoppm: 1 1 /tmp/page-1.ppm
+Converting page 1/1 to pixels
+Converted document to pixels
+Converting page 1/1 from pixels to searchable PDF
+Merging 1 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

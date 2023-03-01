@@ -1,0 +1,49 @@
+Converting to PDF using LibreOffice
+libreoffice: convert /tmp/input_file -> /tmp/input_file.pdf using filter : calc_pdf_Export
+Calculating number of pages
+pdfinfo: Creator:         Calc
+pdfinfo: Producer:        LibreOffice 7.3
+pdfinfo: CreationDate:    Wed Feb 22 22:38:32 2023 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: no
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           8
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       1224 x 792 pts
+pdfinfo: Page rot:        0
+pdfinfo: File size:       26826 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.6
+pdftoppm: 1 8 /tmp/page-1.ppm
+Converting page 1/8 to pixels
+pdftoppm: 2 8 /tmp/page-2.ppm
+Converting page 2/8 to pixels
+pdftoppm: 3 8 /tmp/page-3.ppm
+Converting page 3/8 to pixels
+pdftoppm: 4 8 /tmp/page-4.ppm
+Converting page 4/8 to pixels
+pdftoppm: 5 8 /tmp/page-5.ppm
+Converting page 5/8 to pixels
+pdftoppm: 6 8 /tmp/page-6.ppm
+Converting page 6/8 to pixels
+pdftoppm: 7 8 /tmp/page-7.ppm
+Converting page 7/8 to pixels
+pdftoppm: 8 8 /tmp/page-8.ppm
+Converting page 8/8 to pixels
+Converted document to pixels
+Converting page 1/8 from pixels to searchable PDF
+Converting page 2/8 from pixels to searchable PDF
+Converting page 3/8 from pixels to searchable PDF
+Converting page 4/8 from pixels to searchable PDF
+Converting page 5/8 from pixels to searchable PDF
+Converting page 6/8 from pixels to searchable PDF
+Converting page 7/8 from pixels to searchable PDF
+Converting page 8/8 from pixels to searchable PDF
+Merging 8 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

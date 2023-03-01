@@ -1,0 +1,74 @@
+Calculating number of pages
+pdfinfo: Title:           Sterbehilfe aus jüdischer Sicht : eine Einführung
+pdfinfo: Author:          Francesca Yardenit Albertini
+pdfinfo: Creator:         PScript5.dll Version 5.2
+pdfinfo: Producer:        Acrobat Distiller 8.1.0 (Windows)
+pdfinfo: CreationDate:    Tue Oct 30 13:18:54 2007 UTC
+pdfinfo: ModDate:         Wed Oct  1 12:13:45 2008 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: yes
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            AcroForm
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           16
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       595.22 x 842 pts (A4)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       357796 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.6
+pdftoppm: 1 16 /tmp/page-01.ppm
+Converting page 1/16 to pixels
+pdftoppm: 2 16 /tmp/page-02.ppm
+Converting page 2/16 to pixels
+pdftoppm: 3 16 /tmp/page-03.ppm
+Converting page 3/16 to pixels
+pdftoppm: 4 16 /tmp/page-04.ppm
+Converting page 4/16 to pixels
+pdftoppm: 5 16 /tmp/page-05.ppm
+Converting page 5/16 to pixels
+pdftoppm: 6 16 /tmp/page-06.ppm
+Converting page 6/16 to pixels
+pdftoppm: 7 16 /tmp/page-07.ppm
+Converting page 7/16 to pixels
+pdftoppm: 8 16 /tmp/page-08.ppm
+Converting page 8/16 to pixels
+pdftoppm: 9 16 /tmp/page-09.ppm
+Converting page 9/16 to pixels
+pdftoppm: 10 16 /tmp/page-10.ppm
+Converting page 10/16 to pixels
+pdftoppm: 11 16 /tmp/page-11.ppm
+Converting page 11/16 to pixels
+pdftoppm: 12 16 /tmp/page-12.ppm
+Converting page 12/16 to pixels
+pdftoppm: 13 16 /tmp/page-13.ppm
+Converting page 13/16 to pixels
+pdftoppm: 14 16 /tmp/page-14.ppm
+Converting page 14/16 to pixels
+pdftoppm: 15 16 /tmp/page-15.ppm
+Converting page 15/16 to pixels
+pdftoppm: 16 16 /tmp/page-16.ppm
+Converting page 16/16 to pixels
+Converted document to pixels
+Converting page 1/16 from pixels to searchable PDF
+Converting page 2/16 from pixels to searchable PDF
+Converting page 3/16 from pixels to searchable PDF
+Converting page 4/16 from pixels to searchable PDF
+Converting page 5/16 from pixels to searchable PDF
+Converting page 6/16 from pixels to searchable PDF
+Converting page 7/16 from pixels to searchable PDF
+Converting page 8/16 from pixels to searchable PDF
+Converting page 9/16 from pixels to searchable PDF
+Converting page 10/16 from pixels to searchable PDF
+Converting page 11/16 from pixels to searchable PDF
+Converting page 12/16 from pixels to searchable PDF
+Converting page 13/16 from pixels to searchable PDF
+Converting page 14/16 from pixels to searchable PDF
+Converting page 15/16 from pixels to searchable PDF
+Converting page 16/16 from pixels to searchable PDF
+Merging 16 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

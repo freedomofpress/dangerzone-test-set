@@ -1,0 +1,78 @@
+Calculating number of pages
+pdfinfo: Title:           2013 Instruction 1040 Schedule C
+pdfinfo: Subject:         2013 Instructions for Schedule C, Profit or Loss From Business
+pdfinfo: Author:          W:CAR:MP:FP
+pdfinfo: Creator:         AH XSL Formatter V6.1 MR1 for Linux64 : 6.1.6.12100 (2013/07/19 17:47JST)
+pdfinfo: Producer:        Antenna House PDF Output Library 6.1.420 (Linux64); modified using iText 2.1.7 by 1T3XT
+pdfinfo: CreationDate:    Mon Dec  9 19:16:10 2013 UTC
+pdfinfo: ModDate:         Tue Dec 17 15:07:11 2013 UTC
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: no
+pdfinfo: Tagged:          yes
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           17
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       612 x 792 pts (letter)
+pdfinfo: Page rot:        0
+pdfinfo: File size:       424584 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.7
+pdftoppm: 1 17 /tmp/page-01.ppm
+Converting page 1/17 to pixels
+pdftoppm: 2 17 /tmp/page-02.ppm
+Converting page 2/17 to pixels
+pdftoppm: 3 17 /tmp/page-03.ppm
+Converting page 3/17 to pixels
+pdftoppm: 4 17 /tmp/page-04.ppm
+Converting page 4/17 to pixels
+pdftoppm: 5 17 /tmp/page-05.ppm
+Converting page 5/17 to pixels
+pdftoppm: 6 17 /tmp/page-06.ppm
+Converting page 6/17 to pixels
+pdftoppm: 7 17 /tmp/page-07.ppm
+Converting page 7/17 to pixels
+pdftoppm: 8 17 /tmp/page-08.ppm
+Converting page 8/17 to pixels
+pdftoppm: 9 17 /tmp/page-09.ppm
+Converting page 9/17 to pixels
+pdftoppm: 10 17 /tmp/page-10.ppm
+Converting page 10/17 to pixels
+pdftoppm: 11 17 /tmp/page-11.ppm
+Converting page 11/17 to pixels
+pdftoppm: 12 17 /tmp/page-12.ppm
+Converting page 12/17 to pixels
+pdftoppm: 13 17 /tmp/page-13.ppm
+Converting page 13/17 to pixels
+pdftoppm: 14 17 /tmp/page-14.ppm
+Converting page 14/17 to pixels
+pdftoppm: 15 17 /tmp/page-15.ppm
+Converting page 15/17 to pixels
+pdftoppm: 16 17 /tmp/page-16.ppm
+Converting page 16/17 to pixels
+pdftoppm: 17 17 /tmp/page-17.ppm
+Converting page 17/17 to pixels
+Converted document to pixels
+Converting page 1/17 from pixels to searchable PDF
+Converting page 2/17 from pixels to searchable PDF
+Converting page 3/17 from pixels to searchable PDF
+Converting page 4/17 from pixels to searchable PDF
+Converting page 5/17 from pixels to searchable PDF
+Converting page 6/17 from pixels to searchable PDF
+Converting page 7/17 from pixels to searchable PDF
+Converting page 8/17 from pixels to searchable PDF
+Converting page 9/17 from pixels to searchable PDF
+Converting page 10/17 from pixels to searchable PDF
+Converting page 11/17 from pixels to searchable PDF
+Converting page 12/17 from pixels to searchable PDF
+Converting page 13/17 from pixels to searchable PDF
+Converting page 14/17 from pixels to searchable PDF
+Converting page 15/17 from pixels to searchable PDF
+Converting page 16/17 from pixels to searchable PDF
+Converting page 17/17 from pixels to searchable PDF
+Merging 17 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS

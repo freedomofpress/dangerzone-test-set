@@ -1,0 +1,149 @@
+Calculating number of pages
+pdfinfo: Syntax Error (646): Illegal character <a4> in hex string
+pdfinfo: Syntax Error (647): Illegal character <49> in hex string
+pdfinfo: Syntax Error (648): Illegal character <9e> in hex string
+pdfinfo: Syntax Error (649): Illegal character <40> in hex string
+pdfinfo: Syntax Error (650): Illegal character <c1> in hex string
+pdfinfo: Syntax Error (651): Illegal character <23> in hex string
+pdfinfo: Syntax Error (652): Illegal character <d8> in hex string
+pdfinfo: Syntax Error (653): Illegal character <bd> in hex string
+pdfinfo: Syntax Error (654): Illegal character <f7> in hex string
+pdfinfo: Syntax Error (655): Illegal character <50> in hex string
+pdfinfo: Syntax Error (656): Illegal character <d3> in hex string
+pdfinfo: Syntax Error (657): Illegal character <08> in hex string
+pdfinfo: Syntax Error (658): Illegal character <94> in hex string
+pdfinfo: Syntax Error (659): Illegal character <79> in hex string
+pdfinfo: Syntax Error (660): Illegal character <71> in hex string
+pdfinfo: Syntax Error (661): Illegal character <60> in hex string
+pdfinfo: Syntax Error (662): Illegal character <7a> in hex string
+pdfinfo: Syntax Error (663): Illegal character <f7> in hex string
+pdfinfo: Syntax Error (664): Illegal character <14> in hex string
+pdfinfo: Syntax Error (665): Illegal character <eb> in hex string
+pdfinfo: Syntax Error (666): Illegal character <52> in hex string
+pdfinfo: Syntax Error (667): Illegal character <ce> in hex string
+pdfinfo: Syntax Error (668): Illegal character <8e> in hex string
+pdfinfo: Syntax Error (669): Illegal character <5a> in hex string
+pdfinfo: Syntax Error (671): Illegal character <e4> in hex string
+pdfinfo: Syntax Error (672): Illegal character <71> in hex string
+pdfinfo: Syntax Error (673): Illegal character <ce> in hex string
+pdfinfo: Syntax Error (674): Illegal character <0f> in hex string
+pdfinfo: Syntax Error (675): Illegal character <d6> in hex string
+pdfinfo: Syntax Error (676): Illegal character <84> in hex string
+pdfinfo: Syntax Error (677): Illegal character <ec> in hex string
+pdfinfo: Syntax Error (679): Illegal character <81> in hex string
+pdfinfo: Syntax Error (680): Illegal character <58> in hex string
+pdfinfo: Syntax Error (681): Illegal character <22> in hex string
+pdfinfo: Syntax Error (682): Illegal character <80> in hex string
+pdfinfo: Syntax Error (683): Illegal character <54> in hex string
+pdfinfo: Syntax Error (684): Illegal character <bb> in hex string
+pdfinfo: Syntax Error (685): Illegal character <91> in hex string
+pdfinfo: Syntax Error (686): Illegal character <83> in hex string
+pdfinfo: Syntax Error (687): Illegal character <c6> in hex string
+pdfinfo: Syntax Error (689): Illegal character <f5> in hex string
+pdfinfo: Syntax Error (690): Illegal character <a7> in hex string
+pdfinfo: Syntax Error (691): Illegal character <99> in hex string
+pdfinfo: Syntax Error (692): Illegal character <40> in hex string
+pdfinfo: Syntax Error (693): Illegal character <3b> in hex string
+pdfinfo: Syntax Error (694): Illegal character <23> in hex string
+pdfinfo: Syntax Error (695): Illegal character <89> in hex string
+pdfinfo: Syntax Error (696): Illegal character <9d> in hex string
+pdfinfo: Syntax Error (697): Illegal character <cf> in hex string
+pdfinfo: Syntax Error (698): Illegal character <de> in hex string
+pdfinfo: Syntax Error (699): Illegal character <90> in hex string
+pdfinfo: Syntax Error (700): Illegal character <9e> in hex string
+pdfinfo: Syntax Error (702): Illegal character <a8> in hex string
+pdfinfo: Syntax Error (703): Illegal character <51> in hex string
+pdfinfo: Syntax Error (704): Illegal character <e6> in hex string
+pdfinfo: Syntax Error (705): Illegal character <7c> in hex string
+pdfinfo: Syntax Error (706): Illegal character <a8> in hex string
+pdfinfo: Syntax Error (707): Illegal character <3f> in hex string
+pdfinfo: Syntax Error (709): Illegal character <6c> in hex string
+pdfinfo: Syntax Error (710): Illegal character <55> in hex string
+pdfinfo: Syntax Error: Unterminated hex string
+pdfinfo: Syntax Error: End of file inside array
+pdfinfo: Syntax Error: End of file inside dictionary
+pdfinfo: Custom Metadata: no
+pdfinfo: Metadata Stream: no
+pdfinfo: Tagged:          no
+pdfinfo: UserProperties:  no
+pdfinfo: Suspects:        no
+pdfinfo: Form:            none
+pdfinfo: JavaScript:      no
+pdfinfo: Pages:           1
+pdfinfo: Encrypted:       no
+pdfinfo: Page size:       200 x 50 pts
+pdfinfo: Page rot:        0
+pdfinfo: File size:       711 bytes
+pdfinfo: Optimized:       no
+pdfinfo: PDF version:     1.7
+pdftoppm: Syntax Error (646): Illegal character <a4> in hex string
+pdftoppm: Syntax Error (647): Illegal character <49> in hex string
+pdftoppm: Syntax Error (648): Illegal character <9e> in hex string
+pdftoppm: Syntax Error (649): Illegal character <40> in hex string
+pdftoppm: Syntax Error (650): Illegal character <c1> in hex string
+pdftoppm: Syntax Error (651): Illegal character <23> in hex string
+pdftoppm: Syntax Error (652): Illegal character <d8> in hex string
+pdftoppm: Syntax Error (653): Illegal character <bd> in hex string
+pdftoppm: Syntax Error (654): Illegal character <f7> in hex string
+pdftoppm: Syntax Error (655): Illegal character <50> in hex string
+pdftoppm: Syntax Error (656): Illegal character <d3> in hex string
+pdftoppm: Syntax Error (657): Illegal character <08> in hex string
+pdftoppm: Syntax Error (658): Illegal character <94> in hex string
+pdftoppm: Syntax Error (659): Illegal character <79> in hex string
+pdftoppm: Syntax Error (660): Illegal character <71> in hex string
+pdftoppm: Syntax Error (661): Illegal character <60> in hex string
+pdftoppm: Syntax Error (662): Illegal character <7a> in hex string
+pdftoppm: Syntax Error (663): Illegal character <f7> in hex string
+pdftoppm: Syntax Error (664): Illegal character <14> in hex string
+pdftoppm: Syntax Error (665): Illegal character <eb> in hex string
+pdftoppm: Syntax Error (666): Illegal character <52> in hex string
+pdftoppm: Syntax Error (667): Illegal character <ce> in hex string
+pdftoppm: Syntax Error (668): Illegal character <8e> in hex string
+pdftoppm: Syntax Error (669): Illegal character <5a> in hex string
+pdftoppm: Syntax Error (671): Illegal character <e4> in hex string
+pdftoppm: Syntax Error (672): Illegal character <71> in hex string
+pdftoppm: Syntax Error (673): Illegal character <ce> in hex string
+pdftoppm: Syntax Error (674): Illegal character <0f> in hex string
+pdftoppm: Syntax Error (675): Illegal character <d6> in hex string
+pdftoppm: Syntax Error (676): Illegal character <84> in hex string
+pdftoppm: Syntax Error (677): Illegal character <ec> in hex string
+pdftoppm: Syntax Error (679): Illegal character <81> in hex string
+pdftoppm: Syntax Error (680): Illegal character <58> in hex string
+pdftoppm: Syntax Error (681): Illegal character <22> in hex string
+pdftoppm: Syntax Error (682): Illegal character <80> in hex string
+pdftoppm: Syntax Error (683): Illegal character <54> in hex string
+pdftoppm: Syntax Error (684): Illegal character <bb> in hex string
+pdftoppm: Syntax Error (685): Illegal character <91> in hex string
+pdftoppm: Syntax Error (686): Illegal character <83> in hex string
+pdftoppm: Syntax Error (687): Illegal character <c6> in hex string
+pdftoppm: Syntax Error (689): Illegal character <f5> in hex string
+pdftoppm: Syntax Error (690): Illegal character <a7> in hex string
+pdftoppm: Syntax Error (691): Illegal character <99> in hex string
+pdftoppm: Syntax Error (692): Illegal character <40> in hex string
+pdftoppm: Syntax Error (693): Illegal character <3b> in hex string
+pdftoppm: Syntax Error (694): Illegal character <23> in hex string
+pdftoppm: Syntax Error (695): Illegal character <89> in hex string
+pdftoppm: Syntax Error (696): Illegal character <9d> in hex string
+pdftoppm: Syntax Error (697): Illegal character <cf> in hex string
+pdftoppm: Syntax Error (698): Illegal character <de> in hex string
+pdftoppm: Syntax Error (699): Illegal character <90> in hex string
+pdftoppm: Syntax Error (700): Illegal character <9e> in hex string
+pdftoppm: Syntax Error (702): Illegal character <a8> in hex string
+pdftoppm: Syntax Error (703): Illegal character <51> in hex string
+pdftoppm: Syntax Error (704): Illegal character <e6> in hex string
+pdftoppm: Syntax Error (705): Illegal character <7c> in hex string
+pdftoppm: Syntax Error (706): Illegal character <a8> in hex string
+pdftoppm: Syntax Error (707): Illegal character <3f> in hex string
+pdftoppm: Syntax Error (709): Illegal character <6c> in hex string
+pdftoppm: Syntax Error (710): Illegal character <55> in hex string
+pdftoppm: Syntax Error: Unterminated hex string
+pdftoppm: Syntax Error: End of file inside array
+pdftoppm: Syntax Error: End of file inside dictionary
+pdftoppm: 1 1 /tmp/page-1.ppm
+Converting page 1/1 to pixels
+Converted document to pixels
+Converting page 1/1 from pixels to searchable PDF
+Merging 1 pages into a single PDF
+Compressing PDF
+Safe PDF created
+Result: SUCCESS
