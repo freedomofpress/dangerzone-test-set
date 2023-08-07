@@ -5,8 +5,12 @@ from pathlib import Path
 
 import click
 
-from dangerzone.isolation_provider.base import (CONVERSION_LOG_END,
-                                                CONVERSION_LOG_START)
+from dangerzone.isolation_provider.base import (
+    DOC_TO_PIXELS_LOG_END,
+    DOC_TO_PIXELS_LOG_START,
+    PIXELS_TO_PDF_LOG_END,
+    PIXELS_TO_PDF_LOG_START,
+)
 
 report_tool_path = str(Path(__file__).parent / "report.sh")
 
@@ -20,13 +24,18 @@ class TestResult:
         self.system_out = system_out
         self.failure = failure
 
-    def get_container_log(self) -> str:
-        in_continer_log = False
-        if CONVERSION_LOG_START not in self.system_out:
+    def get_doc_to_pixels_log(self) -> str:
+        return self._get_log(DOC_TO_PIXELS_LOG_START, DOC_TO_PIXELS_LOG_END)
+
+    def get_pixels_to_pdf_log(self) -> str:
+        return self._get_log(PIXELS_TO_PDF_LOG_START, PIXELS_TO_PDF_LOG_END)
+
+    def _get_log(self, armor_start: str, armor_end: str) -> str:
+        if armor_start not in self.system_out:
             return ""
         else:
-            (_, log) = self.system_out.split(CONVERSION_LOG_START)
-            (log, _) = log.split(CONVERSION_LOG_END)
+            (_, log) = self.system_out.split(armor_start)
+            (log, _) = log.split(armor_end)
             return log
 
 
@@ -82,13 +91,15 @@ def main(report: str):
         test_reports = parse_test_results(report)
         failures = [t for t in test_reports if t.failure]
         for failure in failures:
-            failure_report.write(failure.get_container_log())
+            failure_report.write(failure.get_doc_to_pixels_log())
+            failure_report.write(failure.get_pixels_to_pdf_log())
         failure_report.flush()
 
         with tempfile.NamedTemporaryFile("w") as temp_report:
             test_reports = parse_test_results(report)
             for test in test_reports:
-                temp_report.write(test.get_container_log())
+                temp_report.write(test.get_doc_to_pixels_log())
+                temp_report.write(test.get_pixels_to_pdf_log())
             temp_report.flush()
             print(
                 subprocess.check_output(
