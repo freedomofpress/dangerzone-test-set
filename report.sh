@@ -20,6 +20,7 @@ libreoffice: convert /tmp/input_file -> /tmp/input_file.pdf using filter : write
 pdftoppm: Syntax Error (X): Dictionary key must be a name object
 Result: SUCCESS
 Result: FAILURE
+\[COMMAND\]
 """
 print("\|".join(lines.replace(' ', '\ ').split('\n'))[:-2])
 EOF
