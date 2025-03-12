@@ -53,9 +53,10 @@ def summarize_results(report: str) -> None:
     print("==== RESULTS SUMMARY ===")
     with open(report, "r") as r:
         first_line = r.readline()
+        second_line = r.readline()
         match_stats = re.match(
             r'.*errors="(\d+)" failures="(\d+)" skipped="(\d+)" tests="(\d+)"',
-            first_line,
+            first_line.strip() + second_line,
         )  #
         print(
             f"""
