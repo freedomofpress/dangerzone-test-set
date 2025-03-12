@@ -5,12 +5,8 @@ from pathlib import Path
 
 import click
 
-from dangerzone.isolation_provider.base import (
-    DOC_TO_PIXELS_LOG_END,
-    DOC_TO_PIXELS_LOG_START,
-    PIXELS_TO_PDF_LOG_END,
-    PIXELS_TO_PDF_LOG_START,
-)
+DOC_TO_PIXELS_LOG_START = "----- DOC TO PIXELS LOG START -----"
+DOC_TO_PIXELS_LOG_END = "----- DOC TO PIXELS LOG END -----"
 
 report_tool_path = str(Path(__file__).parent / "report.sh")
 
@@ -26,9 +22,6 @@ class TestResult:
 
     def get_doc_to_pixels_log(self) -> str:
         return self._get_log(DOC_TO_PIXELS_LOG_START, DOC_TO_PIXELS_LOG_END)
-
-    def get_pixels_to_pdf_log(self) -> str:
-        return self._get_log(PIXELS_TO_PDF_LOG_START, PIXELS_TO_PDF_LOG_END)
 
     def _get_log(self, armor_start: str, armor_end: str) -> str:
         if armor_start not in self.system_out:
@@ -92,14 +85,12 @@ def main(report: str):
         failures = [t for t in test_reports if t.failure]
         for failure in failures:
             failure_report.write(failure.get_doc_to_pixels_log())
-            failure_report.write(failure.get_pixels_to_pdf_log())
         failure_report.flush()
 
         with tempfile.NamedTemporaryFile("w") as temp_report:
             test_reports = parse_test_results(report)
             for test in test_reports:
                 temp_report.write(test.get_doc_to_pixels_log())
-                temp_report.write(test.get_pixels_to_pdf_log())
             temp_report.flush()
             print(
                 subprocess.check_output(
